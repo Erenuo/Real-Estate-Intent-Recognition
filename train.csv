@@ -1,0 +1,801 @@
+utterance,intent
+Draft text for a stunning barn conversion in Herefordshire with several acres of land.,generate_property_description
+What do you have that's a penthouse with direct lift access in Birmingham?,search_properties
+What's for sale in the 'Toast Rack' area of Wandsworth Common?,search_properties
+"Probate has been granted for the house in York, please change its status to 'Available'.",update_listing
+"Increase the monthly rent for the Canary Wharf rental to £2,200.",update_listing
+"Correct the property description, it's a 'Juliette balcony' not a full balcony, for the flat in Brighton.",update_listing
+My client is interested in anything with equestrian facilities in West Sussex.,search_properties
+Is the property in a flood risk zone?,get_property_details
+What was the feedback from the surveyor on the previous failed sale?,get_property_details
+Draft a description for a freehold parcel of woodland for sale in Herefordshire.,generate_property_description
+"The parking is allocated, not just 'off-street'. Please make that correction.",update_listing
+Create a guide on moving out smoothly after you've sold your property.,generate_blog_post
+Generate a blog post: 'A First-Time Buyer's Guide to Using the UK's Property Portals Effectively'.,generate_blog_post
+What was the name of the couple who viewed the property twice last week?,get_property_details
+"Generate an article explaining the different types of estate agency contracts (sole agency, multi-agency).",generate_blog_post
+Get me a summary of all viewing feedback for the home in Reading.,get_property_details
+"I need a description for a canal-side apartment in Copenhagen, Denmark.",generate_property_description
+Create the text for a 1930s semi-detached house in a suburb of Leicester.,generate_property_description
+Write a guide to preparing your garden for property viewings.,generate_blog_post
+The available date has been pushed back to August 15th for the rental in Manchester.,update_listing
+Can you check the grammar in the main description for the Bath property? I think there are some errors.,update_listing
+Show me all listings in the Golden Triangle of Norwich.,search_properties
+"I need a short, professional description for a commercial unit in Birmingham's business district.",generate_property_description
+Write a blog post for first-time buyers: 'A Glossary of Must-Know Property Terms'.,generate_blog_post
+Show me the key log for the property at 34 Elderflower Lane.,get_property_details
+Show me the council tax band for the bungalow in Cornwall.,get_property_details
+"Write a description for a designer apartment in Knightsbridge, furnished by a renowned interior designer.",generate_property_description
+Find me a house with a large kitchen-diner in Bristol.,search_properties
+I need a property within a 5-minute walk of a good coffee shop in Manchester's Northern Quarter.,search_properties
+Are there any properties with a concierge service in central London?,search_properties
+What are the nearest pubs and restaurants to the property in Notting Hill?,get_property_details
+What was the previous sale price for the house in Oxford?,get_property_details
+Change the furnishing status to 'Unfurnished' for the property on Old Kent Road.,update_listing
+Has the property been down-valued by a surveyor in the past?,get_property_details
+Pull up the key features for the home in Newcastle.,get_property_details
+Quick description needed for a 1-bed retirement flat in Bristol.,generate_property_description
+Create a blog post on 'How to Find and Vet a Good Tenant'.,generate_blog_post
+Create a post discussing the resilience of the prime central London rental market.,generate_blog_post
+Generate a complete guide to getting a mortgage in the UK.,generate_blog_post
+What's the nearest large supermarket to the house in rural Yorkshire?,get_property_details
+Find the managing agent's details for the block in Manchester City Centre.,get_property_details
+Generate a blog post analyzing the Autumn 2025 property market forecast for the North West.,generate_blog_post
+Are there any twilight or evening photos of the property?,get_property_details
+How many second viewings are booked for the flat in Angel?,get_property_details
+Show me the full viewing history for the property at 12 Grimmauld Place.,get_property_details
+"The sellers have accepted an offer, but want it marketed as 'Under Offer' while we check the chain.",update_listing
+Generate text for a property that has recently been fully refurbished to a high standard.,generate_property_description
+"Generate a property description for a 4-bedroom detached house in Harpenden with a large, south-facing garden.",generate_property_description
+Can you write a Facebook post for a new property on the market? It's a bungalow in Bournemouth.,generate_property_description
+"The EPC rating for the Glasgow flat is C, please update the listing.",update_listing
+"Generate a description for a Georgian townhouse in Bath, focusing on its restored period features.",generate_property_description
+"The owner will be away, so add 'No viewings between August 10th and 20th' to the agent notes.",update_listing
+Show me all the properties being marketed by Savills in Surrey.,search_properties
+Who is the agent covering the next viewing at the Winchester property?,get_property_details
+Is the vendor's solicitor on the lender panel for HSBC?,get_property_details
+I need a flat that is close to the Northern Line.,search_properties
+What's on the market in Shrewsbury with four or more bedrooms?,search_properties
+I need the raw image files from the photographer for the listing in Bath.,get_property_details
+Add the room dimensions to the listing for the Bristol home.,update_listing
+Analyze the trend of 'downsizing' among retirees and its effect on the housing market.,generate_blog_post
+Write a piece on the effect of changing EPC regulations on the rental market.,generate_blog_post
+"Is there a wood-burning stove, and is it certified?",get_property_details
+"Write a description for a modern, high-spec apartment in Birmingham's Jewellery Quarter.",generate_property_description
+Find me a home with a south-facing garden in Winchester.,search_properties
+Create a brochure entry for a new development of high-tech business units.,generate_property_description
+Write the blurb for a new instruction: a 5-bed executive home in Alderley Edge.,generate_property_description
+I want to see listings that have a virtual tour available in Manchester.,search_properties
+Create a guide for pet owners on how to prepare their home for viewings.,generate_blog_post
+Show me the proximity of the property to the M25 motorway.,get_property_details
+Can I see all the photos for the property on Regent Street?,get_property_details
+Add 'Off-street parking' to the features for the Brighton house.,update_listing
+What are the access arrangements for the communal areas of the building?,get_property_details
+What three-bed semi-detached homes are available near Jesmond Dene in Newcastle?,search_properties
+Show me the date the property was first listed for sale.,get_property_details
+Can you pull up the service charge accounts for the last 3 years for the flat in Battersea?,get_property_details
+Generate a blog post on how to negotiate with developers when buying a new build.,generate_blog_post
+Get me the sales history going back 20 years for the address in Kensington.,get_property_details
+Compose a post on the future of high street retail spaces and their potential for residential conversion.,generate_blog_post
+Change the rental term to 'Long term let only (12 months minimum)' for the house in Cambridge.,update_listing
+What's for sale on the Isle of Wight with a sea view?,search_properties
+"The landlord will now consider pets, please add 'Pets considered' to the listing in Islington.",update_listing
+I need a property with disabled access in Bath.,search_properties
+Update the listing for the Chelsea flat: the building is managed by 'Kinleigh Folkard & Hayward'.,update_listing
+Search for properties with direct access to a park or common.,search_properties
+Display the full EPC report for the flat in Brighton.,get_property_details
+I'm looking for a top-floor flat in a Victorian conversion in Bristol.,search_properties
+"Give me a draft for a 1-bed ex-local authority flat in Bethnal Green, London. Focus on the value.",generate_property_description
+Are there any thatched cottages for sale in Dorset?,search_properties
+Update the tenure information: 'Share of Freehold with an underlying lease of 987 years'.,update_listing
+Get me the dimensions of the garage for the house in Milton Keynes.,get_property_details
+Change the letting type to 'Student Let' for the property near the University of Nottingham.,update_listing
+Find me a detached home with five bedrooms in the Richmond area.,search_properties
+I'm looking for a property with a westerly-facing garden for evening sun.,search_properties
+Display all viewing requests that are currently awaiting confirmation.,get_property_details
+"I'm looking for a studio flat near a tube station in Zone 2, London.",search_properties
+Generate a romantic and evocative description for a thatched cottage in a Dorset village.,generate_property_description
+Describe a 4-bedroom house in Solihull. Make it sound perfect for a growing family.,generate_property_description
+Find me a house that has a stream or river at the bottom of the garden.,search_properties
+Write a post on the emotional and psychological aspects of selling a family home.,generate_blog_post
+Are there any subletting restrictions on the apartment in Canary Wharf?,get_property_details
+Update the status of the bungalow in Cornwall to Sold STC.,update_listing
+Tell me the size of the garden for the cottage in Devon.,get_property_details
+Show me the condition report from the survey on the house in Exeter.,get_property_details
+What's a good way to describe a modern apartment near Temple Meads station in Bristol?,generate_property_description
+Create a blog post discussing the pros and cons of buying off-plan properties.,generate_blog_post
+I need a description that highlights the low service charge for a purpose-built flat in Coventry.,generate_property_description
+"Draft a description for a large, open-plan office floor in a building in Leeds city centre.",generate_property_description
+Has an environmental search been completed for the home in Manchester?,get_property_details
+"Show me properties under £500,000 in Brighton and Hove.",search_properties
+What is the walking distance to the nearest train station from the house in Guildford?,get_property_details
+I need your help writing a description. It's for a one-bed flat in Hackney that needs a quick sale.,generate_property_description
+"A virtual tour is now available for the City Centre apartment, please link it to the listing.",update_listing
+What have you got in the £400k-£450k price bracket in York?,search_properties
+Write an article on 'How to Price Your Home Realistically in a Slow Market'.,generate_blog_post
+Can you reorder the photos for the Sheffield listing? I want the kitchen to be picture number two.,update_listing
+Pull up the service charge breakdown for the penthouse in Liverpool.,get_property_details
+Show me homes with a 'smart home' system already installed.,search_properties
+Show me the status of the property chain above our buyer.,get_property_details
+Find a property within the M25 with at least 4 bedrooms and a garden for under £1m.,search_properties
+Draft a blog post on 'Selling Inherited Property: A Step-by-Step Guide'.,generate_blog_post
+Is there a utility room in the property with reference #P8876?,get_property_details
+Draft a description for a large agricultural barn with potential for Class Q permitted development.,generate_property_description
+I need to block out viewing times for this Friday morning for a deep clean.,get_property_details
+"The seller wants to knock £5,000 off the asking price for the house in Leicester.",update_listing
+"Can you change the status for the flat on Deansgate, Manchester to 'Exchanged'?",update_listing
+"Create a short description for a 2-bed terraced house in Cardiff, perfect for first-time buyers.",generate_property_description
+Generate a blog post on 'Shared Ownership: Is it the Right Choice for You?',generate_blog_post
+Write a description for a waterfront apartment in Ipswich with potential mooring rights.,generate_property_description
+"Generate a description for a new build home in a development outside Cambridge, highlighting the commuter links to London.",generate_property_description
+"Generate a listing for a terraced house with views of the castle in Conwy, Wales.",generate_property_description
+"Create a detailed description for a flat within a prestigious mansion block in Maida Vale, London.",generate_property_description
+Are there any apartments with access to a residents' lounge in Birmingham?,search_properties
+Show me homes with a 'walk-in wardrobe' in the master bedroom.,search_properties
+Generate an analysis on the impact of Build-to-Rent schemes on the private rental market.,generate_blog_post
+Make a description for a flat that's small but in a prime location in central London.,generate_property_description
+Is the property eligible for any first-time buyer schemes?,get_property_details
+"Draft a description for a pet-friendly apartment building in Leeds, mentioning the nearby parks.",generate_property_description
+Are there any riverside properties available in Richmond upon Thames?,search_properties
+Find a property that's close to a good primary school in North London.,search_properties
+"The vendors sent over some better pictures for the Sheffield house, can you update them?",update_listing
+Draft a post on the best commuter villages with direct trains to Manchester Piccadilly.,generate_blog_post
+Add the new lifestyle photos to the end of the gallery for the farmhouse in Devon.,update_listing
+Create a market update for Q3 2025 for the Home Counties.,generate_blog_post
+"Create a description for a top-floor apartment in a new development in Finnieston, Glasgow.",generate_property_description
+What cottages are for sale in the Lake District?,search_properties
+Write a premium listing for a country estate in the Surrey Hills with a swimming pool and tennis court.,generate_property_description
+"Please reflect a price change on the Brighton maisonette, the new asking price is £550,000.",update_listing
+What's the highest offer received to date for the house on Elm Street?,get_property_details
+Display all feedback received for the cottage in the Lake District.,get_property_details
+"Draft an analysis of the property market in Northern Ireland, highlighting key growth areas.",generate_blog_post
+"Compose a luxury property description for a mansion in St George's Hill, Weybridge.",generate_property_description
+What's the asking price per square foot for the loft in Manchester?,get_property_details
+Has the price changed for the property on Baker Street?,get_property_details
+Compose a guide to selling a home with unconventional features or a unique history.,generate_blog_post
+"Is the property currently tenanted, and if so, what are the tenancy details?",get_property_details
+Create a post exploring the market for retirement properties in the UK.,generate_blog_post
+Search for properties that are 'back on the market' in the Bath area.,search_properties
+Are there any semi-detached houses with at least 3 bedrooms in Southampton?,search_properties
+Update the main image for the listing on Ocean Drive to the one with the sea view.,update_listing
+The seller wants to specify 'No smokers' on the listing for the Bristol flat.,update_listing
+I'm looking for a ground floor maisonette in Brighton with a private garden.,search_properties
+Show me farmhouses with land in the Peak District.,search_properties
+Draft a post explaining the 'sealed bids' process and how to create a winning bid.,generate_blog_post
+"Find a house in a village near Oxford, budget is around £800k.",search_properties
+"The landlord has now agreed to pets, so please remove the 'No Pets' clause from the listing.",update_listing
+"Draft an ad for a 5-bedroom townhouse in Edinburgh's New Town, focusing on its Georgian architecture.",generate_property_description
+"Adjust the price of the flat in Leicester to £175,000. The seller is motivated.",update_listing
+Find all properties for sale on the banks of the River Thames in Berkshire.,search_properties
+"Draft the marketing text for a newly designed smart home in Sandbanks, Poole.",generate_property_description
+Change the property type to 'Maisonette' as it has its own private entrance.,update_listing
+Struggling with the words for a remote cottage in Snowdonia. Can you help?,generate_property_description
+Show me the fixtures and fittings list (TA10) for the house in Exeter.,get_property_details
+Show me all properties within a 20-minute walk of the city centre in York.,search_properties
+Pull up a list of everyone who has viewed the property in SoHo.,get_property_details
+"Create the text for a studio apartment in Brighton, noting its close proximity to The Lanes and the seafront.",generate_property_description
+Draft a description that highlights the peace and quiet of a rural property in the Peak District.,generate_property_description
+I need a brochure description for a historic manor house for sale in Oxfordshire with extensive grounds.,generate_property_description
+Find me a one-bedroom flat with a balcony in Liverpool's Baltic Triangle.,search_properties
+Change the pricing strategy for the land in Kent to 'Price on Application'.,update_listing
+Generate a post on 'Budgeting for the Hidden Costs of Buying a Home'.,generate_blog_post
+Write about how to check for common problems like damp and subsidence during a viewing.,generate_blog_post
+How many years are left on the lease for the apartment in Mayfair?,get_property_details
+"Draft the copy for a house needing modernisation in Bearwood, Birmingham.",generate_property_description
+Create a guide on how to choose the right estate agent to sell your home.,generate_blog_post
+"The vendors for the Manchester property have accepted an offer, can you update the listing?",update_listing
+Write me a description for a modern family home on the outskirts of Belfast.,generate_property_description
+Show me the viewing schedule for the house on Holly Lane this week.,get_property_details
+"I'm looking for something quirky, like a windmill or a water tower conversion.",search_properties
+Show me the interactive site map for the new development in Cambridge.,get_property_details
+Write a blog post on planning permission: When do you need it?,generate_blog_post
+What is the total square footage of the flat in Salford Quays?,get_property_details
+Draft a description for a property that is being sold with no onward chain.,generate_property_description
+Search for properties that accept offers in the region of £300k in Leeds.,search_properties
+Update the bullet points for the Canary Wharf apartment to include '24-hour concierge'.,update_listing
+Show me properties with an en-suite bathroom for every bedroom in Northwood.,search_properties
+Create a description for a single garage for sale in a residential area of Hove.,generate_property_description
+Draft an article explaining the 'Right to Rent' checks for landlords.,generate_blog_post
+"The floor plan for the Manchester apartment is wrong, please delete it and I'll upload a corrected version tomorrow.",update_listing
+Get me the details of the nearest NHS doctor's surgery and if they are accepting patients.,get_property_details
+Draft me something for a period conversion flat in Tunbridge Wells.,generate_property_description
+Write a description for a large apartment in a beautiful crescent in Bath.,generate_property_description
+"I need a house that isn't overlooked from the back, in a quiet part of Reading.",search_properties
+Show me the viewing calendar for the property on Victoria Street.,get_property_details
+Update the tenure to 'Leasehold' and add the remaining lease years: '95 years remaining'.,update_listing
+Compose an article on the growing trend of multi-generational living and its effect on the housing market.,generate_blog_post
+"Find all homes for sale in Clifton Village, Bristol.",search_properties
+Write a blog post titled: 'A Mid-Year Review: The UK Property Market in July 2025'.,generate_blog_post
+Write an article on the perks of riverside living along the Thames.,generate_blog_post
+"The seller has provided the utility costs, please add a note in the agent section: 'Average gas & electric £150pcm'.",update_listing
+Is the loft boarded for storage?,get_property_details
+Compose a piece on how to market a unique or unusual property effectively.,generate_blog_post
+Are there any homes available with a wine cellar?,search_properties
+"Write a listing for a small, lock-up shop unit in a busy suburban parade.",generate_property_description
+Generate a description for a three-storey Victorian townhouse in the golden triangle of Norwich.,generate_property_description
+"Generate an article on marketing your home in the digital age, beyond the main property portals.",generate_blog_post
+Generate a description that makes a studio apartment sound spacious and cleverly designed.,generate_property_description
+I'm looking for a barn conversion in the Cotswolds.,search_properties
+What kind of bungalows are for sale in Suffolk?,search_properties
+Draft a description for a large family home in a sought-after part of Solihull.,generate_property_description
+"The tenant at the rental property has requested no more viewings this week, please block out the calendar.",update_listing
+Create an Instagram caption for a new luxury listing we have in Belgravia.,generate_property_description
+Get me information on local council planning applications near the house in Esher.,get_property_details
+What are the vendor's preferred viewing times for the property in St Albans?,get_property_details
+The sellers have confirmed the tenure is Freehold for the house in Solihull.,update_listing
+I'm looking for a family home in the catchment for Altrincham Grammar School.,search_properties
+Generate an article that demystifies Japanese Knotweed and its impact on getting a mortgage.,generate_blog_post
+Compose an article on the pros and cons of offering a 'pet-friendly' rental property.,generate_blog_post
+"The tenants at the Manchester property require 48 hours' notice, please add this to the notes.",update_listing
+"Find me a detached bungalow in Norfolk, it must be chain-free.",search_properties
+Pull up the offer that was accepted for the house in Surrey.,get_property_details
+I need the estimated monthly utility costs for the terraced house in Bristol.,get_property_details
+"Text for Zoopla listing: 4 bed townhouse, Greenwich, London, in a secure gated development.",generate_property_description
+Write a blog post titled: '10 Cost-Effective Ways to Add Value to Your Home Before Selling'.,generate_blog_post
+Generate a listing for a retail unit with a prime high street location in Chester.,generate_property_description
+Analyse the impact of new build developments on property prices in suburban areas.,generate_blog_post
+Generate a guide on how to sell a property that's part of a complex property chain.,generate_blog_post
+Can you get me the notes from last Saturday's open house in Balham?,get_property_details
+I need to see all upcoming appointments for the property with reference ABC123.,get_property_details
+Is the property located on a flight path?,get_property_details
+Can you confirm the number of bathrooms in the townhouse on George Street?,get_property_details
+I need the business rates if the property in Birmingham is used commercially.,get_property_details
+Show me retirement properties in Bournemouth.,search_properties
+Was there any specific feedback on road noise from people who viewed the property?,get_property_details
+Compose a piece analyzing the demand for properties with dedicated home offices.,generate_blog_post
+"Write a listing for a rustic 'finca' (country estate) in Mallorca, Spain.",generate_property_description
+The landlord is supplying a new washing machine; please add this to the list of included appliances.,update_listing
+Generate a blog post exploring the demand for holiday lets in Cornwall and Devon.,generate_blog_post
+Who are the solicitors handling the sale for the property on Elm Street?,get_property_details
+Draft a post comparing the lifestyle in South London vs. North London.,generate_blog_post
+Show me everything that was reduced in price last week in the whole of Kent.,search_properties
+"The property falls under a conservation area, please add this detail to the listing.",update_listing
+"The house on Elm Street, Manchester is now sold.",update_listing
+"The key for the flat in Liverpool is now with us, so we can change viewing access to 'Key in office'.",update_listing
+Can you replace the main image of the Liverpool flat with the one showing the balcony view?,update_listing
+I need a description for a converted church in Norfolk with original stained-glass windows.,generate_property_description
+Generate an article explaining the concept of 'rental yield' and which UK cities offer the best returns.,generate_blog_post
+Generate a description for a live/work unit in Hackney Wick.,generate_property_description
+Are there any homes for sale with access to a communal gym and pool in Salford?,search_properties
+Create a description that focuses purely on the investment yield for a property near a major hospital.,generate_property_description
+Create an article on the financial benefits of decluttering and staging your home before listing.,generate_blog_post
+Make me a description for a 2-bedroom pre-war apartment on New York's Upper West Side.,generate_property_description
+Generate a description for a property with a large loft space with potential for conversion.,generate_property_description
+I need to see the aerial drone footage of the estate in Cheshire.,get_property_details
+"Write an article explaining different mortgage types: Fixed, Tracker, and Variable.",generate_blog_post
+Search for all homes listed this week in the SW19 postcode.,search_properties
+Show me properties with a large conservatory in the Southampton area.,search_properties
+Write a description for a house with an impressive south-facing garden in Leicester.,generate_property_description
+Display the stamp duty calculation for the list price of the property on King's Road.,get_property_details
+Are there any new flats on the market in the B1 postcode?,search_properties
+I need a short and sweet description for an Instagram post about a charming cottage in Cornwall.,generate_property_description
+I need a description for a retirement bungalow in a quiet community in Norwich.,generate_property_description
+Create an article on landlord insurance: What it covers and why you need it.,generate_blog_post
+Generate a luxury listing for an apartment in Manchester's Beetham Tower.,generate_property_description
+I need a bungalow with at least two bedrooms in Lincoln.,search_properties
+Draft a description for a home with off-street parking for multiple cars in central Cambridge.,generate_property_description
+Search for apartments in buildings that are known for their architecture in Manchester.,search_properties
+"Upload the video tour for the property at 99 Redcliffe Square, London.",update_listing
+Tell me about the local gym and leisure facilities near the apartment in Salford.,get_property_details
+"The open house for the Bristol property is now fully booked, please add a note 'Open house fully booked, reserve list only'.",update_listing
+Write a comprehensive seller's checklist for completion day.,generate_blog_post
+Draft a post on how to negotiate a house price after a bad survey report.,generate_blog_post
+Show me the window and door specifications from the brochure.,get_property_details
+Tell me the predicted rental yield for the apartment in Birmingham.,get_property_details
+Create a guide to understanding your property's Energy Performance Certificate (EPC) and how to improve it.,generate_blog_post
+Generate a post on the benefits of getting a 'Mortgage in Principle' before you start house hunting.,generate_blog_post
+I want a property that has been featured in a design magazine.,search_properties
+"Create marketing copy for a new beachfront apartment complex in Lisbon, Portugal.",generate_property_description
+Does the property have a south-facing garden?,get_property_details
+Write an article on the benefits of investing in HMO (House in Multiple Occupation) properties.,generate_blog_post
+Show me the total number of days on market for the property in Harrogate.,get_property_details
+Who from our office currently holds the keys for the flat in Richmond?,get_property_details
+Add to the rental in Shoreditch: 'The property has access to a communal gym and roof terrace'.,update_listing
+Write a description for a split-level maisonette in Clapham with its own private entrance.,generate_property_description
+Has there been any interest from cash buyers for the property in Oxford?,get_property_details
+What is the make and model of the boiler in the house in Sheffield?,get_property_details
+Write a guide to buying with a partner: Joint Tenants vs. Tenants in Common.,generate_blog_post
+Draft an article on the growing popularity of eco-friendly new builds among buyers.,generate_blog_post
+Generate an elegant description for a duplex penthouse in Canary Wharf with 24-hour concierge.,generate_property_description
+Are there any viewings scheduled for tomorrow for the property on Park Lane?,get_property_details
+Draft a lifestyle guide to living in the Peak District National Park.,generate_blog_post
+Are there any outstanding service charge arrears on the flat in Islington?,get_property_details
+Search for penthouses in Manchester with a roof terrace.,search_properties
+Find me an apartment in a building with a residents' gym in Leeds.,search_properties
+Are there any planned major construction projects in the immediate area?,get_property_details
+Write a blog post on how to handle tenancy disputes and evictions legally.,generate_blog_post
+"The current front shot is terrible, can you replace it with the twilight photo for the listing in Chelsea?",update_listing
+What was John Smith's feedback on the Birmingham property?,get_property_details
+"We need to adjust the price for the house in Bath to reflect the recent survey findings; the new price is £580,000.",update_listing
+Does the lease for the flat in Chelsea allow for pets?,get_property_details
+I'm looking for a two-bedroom cottage in a quiet village in Suffolk.,search_properties
+"Let's set up a second open house for the house in Guildford for this Sunday, same times.",update_listing
+How long has the house in Wimbledon been listed?,get_property_details
+Draft a post on the pros and cons of using a letting agent vs. self-managing.,generate_blog_post
+Generate an article on the importance of professional property photography.,generate_blog_post
+Create a blog post on how to identify up-and-coming areas for buy-to-let investment.,generate_blog_post
+Show me a log of all price reductions for the property in Chester.,get_property_details
+Is the property vacant or owner-occupied at present?,get_property_details
+"I've just uploaded new professional photos for the Manchester penthouse, please make them live.",update_listing
+Show me homes in the Cotswolds that have been on the market for more than three months.,search_properties
+"Find me a modern, open-plan apartment in Canary Wharf.",search_properties
+Write a post on 'Open House vs. Private Viewings: Which is Better for Your Property?',generate_blog_post
+Draft an ad for a large apartment in a converted mill in Bradford's Little Germany.,generate_property_description
+Generate text for a Zoopla listing: a Grade II listed weavers' cottage in Macclesfield.,generate_property_description
+Generate a compelling description for a one-bedroom garden flat in Fulham.,generate_property_description
+Add this sentence to the description of the Windsor property: 'The property benefits from a south-facing garden.',update_listing
+List all properties within a 10-minute drive of Heathrow Airport.,search_properties
+Search for properties that are being sold via shared ownership in Bristol.,search_properties
+Write about the long-term property investment outlook for cities along the HS2 route.,generate_blog_post
+Need ad copy for a retirement property in a managed complex in Eastbourne.,generate_property_description
+List all homes for sale in the school catchment area for St. Peter's School in Exeter.,search_properties
+"Change the number of bathrooms from 1 to 2 for the property on Church Road, Bristol.",update_listing
+Add a note to the listing in Southampton: 'Cash buyers only'.,update_listing
+Create a seller's guide to navigating a 'buyer's market' successfully.,generate_blog_post
+When was the property last sold?,get_property_details
+Generate a description for a waterfront villa in Cornwall with private beach access.,generate_property_description
+Draft a guide for 'accidental landlords' and what they need to know.,generate_blog_post
+Show me a list of all viewers who subsequently made an offer.,get_property_details
+I need the EPC rating for the house we viewed in Cambridge.,get_property_details
+What's available in Newcastle upon Tyne for first-time buyers?,search_properties
+Pull up the contact number for the current tenant to arrange a viewing.,get_property_details
+Create a guide to the best London boroughs for green spaces.,generate_blog_post
+Are there any properties with a separate studio or workshop in the garden in Brighton?,search_properties
+What are the materials of the kitchen countertops in the flat in Soho?,get_property_details
+Write a description for a Victorian conversion flat that retains original fireplaces and cornicing.,generate_property_description
+"The seller wants to be clear, add 'Sold as seen' to the property notes.",update_listing
+Are there any homes with a swimming pool in Cheshire?,search_properties
+I want to see new build developments in Reading.,search_properties
+Search for properties that come with a tenanted contract in place in Liverpool.,search_properties
+I'm interested in period terraced houses in Islington.,search_properties
+Compose an article on the legal process of transferring ownership on completion day.,generate_blog_post
+Is the price negotiable on the house in Canterbury?,get_property_details
+Find out about the local residents' association for the estate in Dulwich.,get_property_details
+Are there any apartments in Liverpool with floor-to-ceiling windows?,search_properties
+"Write me a description for a student let, 4 bedrooms, fully furnished, near the University of Nottingham.",generate_property_description
+Find all homes within the boundary of Dartmoor National Park.,search_properties
+"Drop the price of the flat in Islington by £25,000.",update_listing
+Find a flat that is on the top floor but not a penthouse in a modern block in Leeds.,search_properties
+Update the viewing instructions for the property in Leeds: '24 hours notice required'.,update_listing
+Search for homes within a 2-mile radius of Reading station.,search_properties
+Draft a post on the home improvements with the best Return on Investment for 2025.,generate_blog_post
+Create an article explaining the legal paperwork involved in selling a house in England.,generate_blog_post
+"The deal on the Edinburgh apartment has collapsed, please relist it.",update_listing
+Generate a post explaining Capital Gains Tax for property sellers.,generate_blog_post
+What's the council tax for a single occupant at the property in York?,get_property_details
+I need a pet-friendly two-bed flat with some outdoor space in Edinburgh.,search_properties
+Can I see the Matterport scan for the flat in Manchester?,get_property_details
+Find me a property with good natural light and high ceilings in Edinburgh's New Town.,search_properties
+"The owner has just renewed the lease, please update the description to reflect '990 years remaining'.",update_listing
+Write a description for a 1-bed flat that needs to sell fast. Make it sound like a bargain.,generate_property_description
+Need some text for a window card. It's a 2-bed terrace in Sheffield.,generate_property_description
+"I need a description for a terraced house in the popular area of Southville, Bristol.",generate_property_description
+Write a description for a Grade I listed oast house for sale in Kent.,generate_property_description
+Add 'Viewings to commence from the 5th of August' to the listing details for the York property.,update_listing
+Please add the drone footage to the gallery for the farmhouse in Wales.,update_listing
+"Delete photo number 5 for the Brighton seafront property, it's out of date.",update_listing
+Tell me about the nightlife and noise levels in the area around the Shoreditch flat.,get_property_details
+Search for a property with an annex or separate living space in Kent.,search_properties
+"The sale on 42 Primrose Lane, Harrogate has collapsed, put it back on the market as 'Available'.",update_listing
+"Could you draft a property description for a coastal home in Sydney, Australia, with ocean views?",generate_property_description
+Add 'Fibre optic broadband available' to the key features of the property in Salford.,update_listing
+Create the marketing text for a large industrial warehouse to let near Heathrow Airport.,generate_property_description
+Describe a cottage in the Cotswolds. Emphasize 'cozy' and 'charming'.,generate_property_description
+How would you describe a penthouse with a wraparound terrace in Leeds city centre?,generate_property_description
+Find a three-bed semi-detached house in the suburbs of Birmingham.,search_properties
+Draft a description that emphasizes the 'hidden gem' quality of a mews house in South Kensington.,generate_property_description
+Find any properties listed for auction in Sheffield.,search_properties
+Pull up all listings in Harrogate with original period features.,search_properties
+Who is the vendor for the property with reference #GHI456?,get_property_details
+Search for houses for sale on Cotham Road in Bristol.,search_properties
+Is the property in an Ultra Low Emission Zone (ULEZ)?,get_property_details
+"The property on Willow Lane, York is now pending completion.",update_listing
+"The house in Windsor needs a price adjustment, new price is £1,200,000.",update_listing
+What's on the market in Notting Hill for around £2 million?,search_properties
+Find a flat with a service charge of less than £2000 per year in London Zone 3.,search_properties
+Display the property's social media post and its engagement stats.,get_property_details
+"The landlord of the Oxford flat will now include council tax and water for an increased rent of £1400pcm, update please.",update_listing
+Show me apartments in a converted warehouse in Shoreditch.,search_properties
+Find all listings in the historic town of Windsor.,search_properties
+Give me a punchy opening line for a warehouse conversion listing in Shoreditch.,generate_property_description
+"Need a description for a new build apartment in Salford Quays, highlighting the EWS1 certificate.",generate_property_description
+I need to sell a Martello tower on the Suffolk coast. Write a suitably historic and unique description.,generate_property_description
+"I've sent you the link to the drone video, please embed it on the listing for the estate in Cheshire.",update_listing
+I need a property with land suitable for keeping chickens or a smallholding.,search_properties
+"Describe this property for me: 2 beds, ground floor, private patio, right next to Wandsworth Common.",generate_property_description
+"Write a professional description for a modern office space for lease in Spinningfields, Manchester.",generate_property_description
+Play the video tour for the flat in Canary Wharf.,get_property_details
+"I'm looking for something with character, maybe an old schoolhouse or chapel conversion.",search_properties
+Add the new twilight photos to the listing for the house in Harrogate.,update_listing
+Write a post on how to conduct a professional property inventory.,generate_blog_post
+"Draft the copy for a lakeside lodge in the Lake District, emphasizing its holiday let potential.",generate_property_description
+Create a guide for buyers on how to perform due diligence on a property's history and planning.,generate_blog_post
+"Put the bungalow in Bournemouth back on, the buyer couldn't secure a mortgage.",update_listing
+Display any known upcoming assessments or major works costs for the block in Brighton.,get_property_details
+Let's write a description for a houseboat on a canal in Amsterdam.,generate_property_description
+"The brochure is now ready, can you upload the PDF to the listing for the house in Harrogate?",update_listing
+Change the listing for the house in Cambridge to 'Furnished'.,update_listing
+"Create a description for a property with stunning, uninterrupted sea views in Devon. Make this the main focus.",generate_property_description
+"Show me all homes for sale on King Street, Cambridge.",search_properties
+Write a description for a semi-detached house in a Dublin suburb.,generate_property_description
+Search for properties that have planning permission granted for an extension in Hertford.,search_properties
+Can you reduce the price on the Newcastle apartment by 5%?,update_listing
+I want to find a fixer-upper project in East London.,search_properties
+"Change 45 King's Avenue, Cardiff to 'Under Offer'.",update_listing
+I need the contact details for the people who viewed the Battersea flat yesterday.,get_property_details
+I'm stuck. Can you write a punchy description for a student studio near a London university?,generate_property_description
+Show me all homes for sale in the village of Painswick in the Cotswolds.,search_properties
+I need a property with a driveway that can accommodate a caravan or motorhome.,search_properties
+Generate an article explaining the difference between 'exchange' and 'completion'.,generate_blog_post
+Create a description for a luxury apartment in a high-rise in Singapore.,generate_property_description
+Add a block viewing event for the Clapham flat next Tuesday between 5pm and 7pm.,update_listing
+Search for homes with low council tax bands in the Chester area.,search_properties
+"Generate a description for a flat perfect for remote work, highlighting the dedicated office space.",generate_property_description
+Create a guide to 'biophilic design': bringing nature into your home to boost its appeal.,generate_blog_post
+Compose a compelling description for a property with a home cinema and gym in Chelsea.,generate_property_description
+I want to find a three-bedroom house that's been recently refurbished in Cardiff.,search_properties
+"The landlord has withdrawn the rental in Notting Hill, please remove the listing.",update_listing
+Generate an article titled 'Leasehold vs. Freehold: A Buyer's Guide'.,generate_blog_post
+Show me homes with a secure bike storage facility in Cambridge.,search_properties
+The ground rent for the Reading flat escalates; please add the details from the lease I emailed.,update_listing
+Show me listings with a '3D tour' option in the Nottingham area.,search_properties
+"Correct the description for the Sheffield flat; it's electric heating, not gas central heating.",update_listing
+Are there any homes with a roof terrace that has views of the London skyline?,search_properties
+The vendor has instructed a price drop on the Exeter property to get it sold before the end of the month.,update_listing
+"The seller wants to be aggressive; change the price for the Liverpool apartment to 'Offers Over £150,000'.",update_listing
+"Need to advertise a room for rent in a shared house in Brighton. Write me a short, friendly ad.",generate_property_description
+Let's move the Leeds warehouse listing to 'Under Offer'.,update_listing
+Show me the marketing brochure for the penthouse on the South Bank.,get_property_details
+"The vendor wants to pause viewings, can you mark the listing as 'Temporarily Unavailable'?",update_listing
+Create a post comparing the property markets in Manchester vs. Birmingham for young professionals.,generate_blog_post
+Find me a Victorian terraced house in the Moseley area of Birmingham.,search_properties
+Search for a family home with a playroom or a second reception room.,search_properties
+Find the property on the Environment Agency's flood map.,get_property_details
+Add a note to the rental listing in Clapham: 'A six-month break clause is available'.,update_listing
+Generate a blog post on property auction trends for Q3 2025.,generate_blog_post
+I'm looking for a Georgian townhouse in Bath.,search_properties
+"Is there an alarm system at the property in Hampstead, and what's the code?",get_property_details
+"Generate a punchy, energetic description for a first-time buyer flat in Brixton.",generate_property_description
+"Write a listing for a two-bed flat in Clifton, Bristol, emphasizing its balcony views over the suspension bridge.",generate_property_description
+Generate a blog post on 'How to spot a property with good 'bones' and investment potential'.,generate_blog_post
+"I'm looking for a project, maybe a derelict barn or an old pub with planning permission.",search_properties
+Search for homes with good transport links to central London.,search_properties
+Display the gallery for the new build in Milton Keynes.,get_property_details
+Are there any homes for sale that include a separate guest cottage?,search_properties
+Show me all 'Price on Application' listings in Chelsea.,search_properties
+Generate an article on the price per square foot: A comparison across different London boroughs.,generate_blog_post
+Write a blog post about the rise of 'green' homes and their impact on property values.,generate_blog_post
+Generate a listing for a historic brownstone in Brooklyn's Park Slope neighborhood.,generate_property_description
+Create an article on 'The Art of Depersonalisation: Preparing Your Home for Sale'.,generate_blog_post
+Find the memorandum of sale for the house on Portobello Road.,get_property_details
+Compose a guide for selling a tenanted property.,generate_blog_post
+"The sale didn't go through for the Birmingham property, please make it available again.",update_listing
+"Generate a description for a house that's a 'blank canvas', perfect for renovation.",generate_property_description
+Write a guide to understanding the 'chain' in a property transaction.,generate_blog_post
+Show me everything listed in the last 48 hours in the E1 postcode.,search_properties
+Create a blog post on portfolio diversification strategies for property investors.,generate_blog_post
+Write up a listing for me. It's a 3-bed semi-detached in a Cardiff suburb with a garage and driveway.,generate_property_description
+"The landlord wants to increase the rent on the Islington flat to £2,100 PCM after the refurb.",update_listing
+"Remove the photo of the second bedroom for the London flat, it's being redecorated.",update_listing
+Find me a house that needs modernisation in the suburbs of Glasgow.,search_properties
+"Update the listing for the Southampton property to 'Guide Price £400,000 - £425,000'.",update_listing
+Show me the local school catchment area for the house in Richmond.,get_property_details
+Draft an article on the tax benefits of using a limited company for buy-to-let properties.,generate_blog_post
+Draft a listing for a charming apartment with a balcony in the Trastevere neighborhood of Rome.,generate_property_description
+Write a blog post that demystifies the conveyancing process.,generate_blog_post
+"Mark the rental on Park Road, Bristol as 'Let Subject to Referencing'.",update_listing
+Find a family home close to Heaton Park in Manchester.,search_properties
+Show me properties with a large garden in the Surrey Hills.,search_properties
+Create an article on the importance of conducting regular property inspections.,generate_blog_post
+Collate all the negative viewing comments for the property in Maida Vale.,get_property_details
+Create an article titled: 'Will the General Election Results Impact UK House Prices?',generate_blog_post
+Show me a three-bedroom house with a garage and a driveway in a good Bristol school catchment.,search_properties
+Show me all the listings on Zoopla in the SK9 postcode.,search_properties
+Search for eco-homes or properties with solar panels in Brighton.,search_properties
+Pull up the marketing text used for the property description.,get_property_details
+What is the current status of the sale for the home in St Albans?,get_property_details
+Pull up the offer history for the apartment with ID 789-CDE.,get_property_details
+"What's available in the Jewellery Quarter, Birmingham, with secure parking?",search_properties
+Cancel the open house scheduled for this weekend for the property in Richmond.,update_listing
+"I'm looking for a large, detached family home in Solihull.",search_properties
+Show me the floor plan for the house on Ocean View Drive.,get_property_details
+Update the deposit for the Shoreditch flat to be '5 weeks' rent'.,update_listing
+The property is Grade II listed; this needs to be prominently mentioned in the first paragraph of the description.,update_listing
+Write an article on how the 'Bank of Mum and Dad' is shaping the first-time buyer market.,generate_blog_post
+Create a description for a ground-floor flat with direct garden access in Glasgow's West End.,generate_property_description
+"The ground rent for the flat in Putney is zero, please update the details.",update_listing
+"Just listed a property in Jesmond, Newcastle. It's a 3-bedroom upper maisonette and needs a great description.",generate_property_description
+Can you add to the description for the Wimbledon house that it's in the catchment area for Pelham Primary School?,update_listing
+Display the listing timeline for the house on Church Road.,get_property_details
+Create a description that highlights the significant built-in storage in a 2-bed London flat.,generate_property_description
+Generate a blog post on simple ways to create a welcoming and memorable entrance hall.,generate_blog_post
+Generate a post on 'How to Handle End-of-Tenancy Deposit Disputes Fairly and Legally'.,generate_blog_post
+Search for a detached bungalow on a single level with no steps in Devon.,search_properties
+Compose a piece on whether renting is becoming more financially sensible than buying in 2026.,generate_blog_post
+I need a description for a portfolio of 10 tenanted properties being sold by an investor.,generate_property_description
+"Please compose a description for a 4-bed family home in a suburb of Toronto, Canada.",generate_property_description
+"Give me a description for a ski chalet in the French Alps, focusing on its ski-in/ski-out access.",generate_property_description
+Update the rental property in Birmingham: 'Available immediately'.,update_listing
+Are there any flats with a 24-hour concierge in Manchester's Deansgate?,search_properties
+"The sellers of the cottage in the Cotswolds want to test the market higher, increase the price by £15,000.",update_listing
+Can you update the property type from 'Terraced' to 'End of Terrace' for the listing in Sheffield?,update_listing
+Write a blog post on 'The Best Family-Friendly Neighbourhoods in Surrey'.,generate_blog_post
+Are there any Grade II listed properties for sale in Bath?,search_properties
+"Remove the winter shots and add the new summer photos for the property on The Green, Richmond.",update_listing
+"Increase the asking price for the mansion in Chelsea to £5,500,000.",update_listing
+Update the rent for the room in the shared house to '£750 PCM including bills'.,update_listing
+Can you change the order of the photos for the Camden flat? Put the kitchen pictures first.,update_listing
+"The photographer just sent the link for the York house, please upload all photos and the floor plan.",update_listing
+I need to know about the mobile phone signal strength inside the property.,get_property_details
+Is the current owner the original owner of this new build?,get_property_details
+Draft a tweet about a new family home we've just listed in a leafy Manchester suburb.,generate_property_description
+"Please generate a compelling description for a beach house for sale in Cape Town, South Africa.",generate_property_description
+Draft me something for a small cottage on the west coast of Ireland.,generate_property_description
+Compose a piece on 'What is a listed building and what are the restrictions?',generate_blog_post
+Can you add 'Share of Freehold' to the key features of the Pimlico flat?,update_listing
+"Consolidate all viewings for the Manchester apartment into a block viewing this Saturday, 10am-12pm.",update_listing
+Write a post explaining what a 'peppercorn rent' is in leasehold properties.,generate_blog_post
+Write a guide to understanding EPC ratings and what they mean for your energy bills.,generate_blog_post
+Generate a post on understanding the tax implications of being a landlord.,generate_blog_post
+Create a blog post titled 'Investing in Student Accommodation: A Landlord's Guide'.,generate_blog_post
+"Let's amend the price of the property in Exeter to £350,000.",update_listing
+The landlord wants to offer a '1 week rent-free' incentive for a quick move-in. Please add this to the description.,update_listing
+"The owners want to change the price for the house on Richmond Road to 'Offers in excess of £750,000'.",update_listing
+Create a checklist for sellers: 'What to Do Before Your First Viewing'.,generate_blog_post
+Please add a watermark to all photos for the property on Baker Street.,update_listing
+Write an article comparing the investment potential of residential vs. commercial property today.,generate_blog_post
+Update the summary for the flat in Canary Wharf to mention 'hyperoptic broadband installed'.,update_listing
+What is the ground rent review period for the maisonette in Cardiff?,get_property_details
+Write a blog post on navigating the property market as a solo buyer.,generate_blog_post
+I'm looking for a penthouse apartment in Liverpool with views of the Mersey.,search_properties
+I need some marketing copy for a new condo development in Dubai Marina.,generate_property_description
+"Write a description for a luxury condo in Vancouver, Canada, with mountain and ocean views.",generate_property_description
+Create a detailed description for a penthouse apartment in Liverpool with panoramic city and river views.,generate_property_description
+Pull up the details about the swimming pool for the house in Surrey.,get_property_details
+"Generate an ad for a modern apartment in a secure complex in Johannesburg, South Africa.",generate_property_description
+I need a description for a data centre facility for lease near London.,generate_property_description
+I need a place with fibre optic broadband already connected.,search_properties
+Search for homes with a formal dining room in the Harrogate area.,search_properties
+"Please relist the property at 7 Cherry Tree Lane, the chain broke.",update_listing
+"Write a description, but focus on the investment angle. It's a flat near Manchester University.",generate_property_description
+Compose a piece on 'Buy-to-Let Mortgages Explained'.,generate_blog_post
+Create an article titled: 'Red Flags to Watch Out for During a Property Viewing'.,generate_blog_post
+Compose an article on 'Rent Guarantee Insurance: Is it a Worthwhile Expense for Landlords?',generate_blog_post
+Write a blog post about the process of selling a shared ownership property.,generate_blog_post
+I need a description for a fixer-upper; it's a 3-bed semi in Sheffield that needs full renovation.,generate_property_description
+Is there loft access at the bungalow in Bournemouth?,get_property_details
+I'm looking for a character property in Stratford-upon-Avon.,search_properties
+I'm interested in properties with potential to extend in South West London.,search_properties
+Generate an article discussing the future of commercial property in UK city centres.,generate_blog_post
+"I'd like a property description for a historic apartment in Rome, near the Pantheon.",generate_property_description
+Got a bungalow for sale in Worthing. Need a description that appeals to retirees.,generate_property_description
+Update the furnishing for the rental in Leeds to specify 'sofa and white goods included only'.,update_listing
+I need a house with a cellar and a loft with conversion potential in South London.,search_properties
+Please correct the spelling of 'ensuite' in the description for the Chester property.,update_listing
+Draft a post on understanding the 'Making Tax Digital' requirements for landlords.,generate_blog_post
+Show me a list of all withdrawn offers for the flat in Putney.,get_property_details
+Change the price to 'Price on Application' for the estate in Surrey.,update_listing
+Find me a house with no onward chain and a motivated seller in York.,search_properties
+Find me a home with underfloor heating in a new development near Reading.,search_properties
+Compose a guide to complying with gas and electrical safety regulations in rental properties.,generate_blog_post
+"Change the status of the Sheffield property to SSTC, we have a complete chain.",update_listing
+"Show me all the homes for sale on Church Road, Barnes.",search_properties
+Get me the local authority search results for the Reading property.,get_property_details
+Write a detailed analysis of the student rental market in Edinburgh.,generate_blog_post
+Write a blog post on 'What is Title Insurance and Do I Really Need It?',generate_blog_post
+Write an article on sustainable home improvements that can also save you money.,generate_blog_post
+Show me the room dimensions for the master bedroom in the Bristol flat.,get_property_details
+Write an article about the latest changes to tenancy laws in England.,generate_blog_post
+"The owner wants to invite offers between £700,000 and £725,000 for the Surrey property. Update the price band.",update_listing
+"We have accepted an offer on 12 Orchard Close, please update its status.",update_listing
+"I need some words for a flat I'm selling in Angel, Islington. It's a one-bed with a small balcony.",generate_property_description
+Let's take the property in the Lake District off the market for the winter; the owner will relist in Spring.,update_listing
+Can you confirm the annual ground rent for the property at 10 Downing Street?,get_property_details
+"Find a quiet property, not on a main road, in York.",search_properties
+Draft a simple guide to understanding and negotiating offers on your property.,generate_blog_post
+"I need a description for a Regency-era villa in Cheltenham, meticulously restored.",generate_property_description
+"Adjust the price for 8 Baker Street, the seller wants to be more competitive.",update_listing
+Write a blog post on the pros and cons of selling your home via auction.,generate_blog_post
+Compose a piece on the Party Wall Act and what it means for your home extension plans.,generate_blog_post
+"Update the asking price for the Lincoln property to £189,950.",update_listing
+Show me all available homes in the village of Alderley Edge.,search_properties
+Update the key features to include 'underfloor heating in both bathrooms' for the new build in Reading.,update_listing
+Change the headline for the London Bridge flat to 'Stunning Riverside Apartment with Balcony'.,update_listing
+"Generate a listing for a wide-beam narrowboat moored in Little Venice, London.",generate_property_description
+I need a description for a property with development potential (STPP) on a large plot in Essex.,generate_property_description
+Generate a blog post on the importance of professionally responding to viewer feedback.,generate_blog_post
+What type of heating system does the house in Nottingham have?,get_property_details
+Can you send me the link to the Rightmove listing for the house in Wimbledon?,get_property_details
+"The owner works nights, so please update the viewing instructions to 'No viewings before 12pm'.",update_listing
+Generate a guide to the HMO (House in Multiple Occupation) licensing process in the UK.,generate_blog_post
+"I need a list of nearby supermarkets for the property in Headingley, Leeds.",get_property_details
+Swap the lead photo on the Brighton flat to the new one I just uploaded called 'hero_shot.jpg'.,update_listing
+Write me something for a 2-bed new-build in Peckham.,generate_property_description
+Please add the service charge and ground rent details for the flat in Battersea.,update_listing
+Show me all detached homes with a double garage in Cheltenham.,search_properties
+Generate a blog post on 'Long-Term vs. Short-Term Lets: A Profitability Analysis for Landlords'.,generate_blog_post
+What offers have been made on the home in Chelsea?,get_property_details
+Write a description for a riverside apartment in a prestigious development in Nine Elms.,generate_property_description
+I need the alarm code and disarming instructions for the house in Winchester.,get_property_details
+Write a piece on the most over- and under-valued property markets across the UK.,generate_blog_post
+What should I say about a 5-bed detached house in Sevenoaks with a home office?,generate_property_description
+"Write a description for a home located on a quiet, no-through road in Nottingham.",generate_property_description
+Compose a post on 'Gazumping and Gazundering: What They Are and How to Protect Yourself'.,generate_blog_post
+Draft an article on 'The Right of First Refusal' in property law and what it means for tenants.,generate_blog_post
+I'm searching for an end-of-terrace house in the Wimbledon Village area.,search_properties
+I need to market a former pub with planning permission to convert to residential units.,generate_property_description
+Write a listing for a takeaway food business with living accommodation above in a suburb of Manchester.,generate_property_description
+"The tenants have paid their deposit for the flat in Cardiff, please move the status from 'Let Agreed' to 'Let'.",update_listing
+Search for properties with a view of the castle in Edinburgh.,search_properties
+Create a guide on what happens between your mortgage offer and the completion date.,generate_blog_post
+Create a simple guide to understanding Stamp Duty for second homes and buy-to-let properties.,generate_blog_post
+Find the original purchase price paid by the current vendor for the house in Leeds.,get_property_details
+Write a guide on navigating government home-buying schemes.,generate_blog_post
+"Can you generate a description for a holiday villa in Marbella, Spain, with a private pool?",generate_property_description
+Show me a map of the property in relation to local dog walking spots.,get_property_details
+Is there fibre optic broadband installed at the property in Reading?,get_property_details
+I need a description for a vineyard property for sale in the Bordeaux region of France.,generate_property_description
+Add 'south-west facing garden' to the key features list for the house in St Albans.,update_listing
+Write about the top 5 UK property investment hotspots for the next decade.,generate_blog_post
+Write a description for an apartment that is part of a shared ownership scheme.,generate_property_description
+Get me details on the outbuildings for the farm in rural Wales.,get_property_details
+Create a high-end description for a warehouse conversion in Shoreditch with double-height ceilings.,generate_property_description
+"Change the viewing arrangements for the house in Leeds to 'Vacant possession, viewings available anytime'.",update_listing
+I need the key-safe code for the flat on King's Road.,get_property_details
+Search for a maisonette with its own entrance in Hove.,search_properties
+Can you find the before-and-after renovation photos for the property in Hackney?,get_property_details
+"The vendor has sent a video of the garden in bloom, please add it to the listing for 22 Willow Creek.",update_listing
+What are the nearest tube stations to the flat in South Kensington?,get_property_details
+Can you confirm if the property has a right of way through the neighbour's garden?,get_property_details
+I need a two-bed flat in Glasgow's West End.,search_properties
+Analyze the impact of new short-term let regulations in cities like Edinburgh and London.,generate_blog_post
+Has the asking price been adjusted for the home in Guildford?,get_property_details
+Write an article on the best London neighbourhoods for food lovers and culinary enthusiasts.,generate_blog_post
+Draft a post on the pros and cons of buying a property at auction.,generate_blog_post
+Are the windows double-glazed on the property in Leicester?,get_property_details
+Write a blog post on how to research a neighbourhood before you buy.,generate_blog_post
+Generate a blog post on the best time of year to list your property for sale.,generate_blog_post
+"Generate a description for a top-floor flat, emphasizing the great natural light.",generate_property_description
+Generate a short bio for a top-floor flat in Islington.,generate_property_description
+Generate a description for a timber lodge in a managed forest resort in Scotland.,generate_property_description
+I need a detached property with at least an acre of land in rural Wales.,search_properties
+"Compose some copy for a student house in Fallowfield, Manchester, available for the next academic year.",generate_property_description
+Write a guide on how to become a landlord in the UK.,generate_blog_post
+"The auction guide price needs updating for the property in Birmingham, set it to £90,000+.",update_listing
+"The market is hot, increase the price for the Shoreditch loft by £50,000.",update_listing
+"Are there any townhouses with an integrated garage in Clifton, Bristol?",search_properties
+Show me pet-friendly apartments for sale in Leeds city centre.,search_properties
+What was the feedback from the 2pm viewing at the Knightsbridge flat?,get_property_details
+What's the latest valuation on the property with reference #45B21?,get_property_details
+Is the property listed or in a conservation area?,get_property_details
+"The lease on the London flat has been extended, it's now 999 years. Please update.",update_listing
+Are there any other properties on this street currently for sale?,get_property_details
+Create a post examining the role of foreign investment in the UK's luxury property sector.,generate_blog_post
+I'm looking for a property that is vacant and chain-free for a quick purchase; location is flexible but must be a city.,search_properties
+Show me all the properties that have dropped their price by more than 5% in the last month.,search_properties
+"Create a listing for a home with a large, modern kitchen-diner designed for entertaining.",generate_property_description
+"Take the property at 1 Abbey Road, London off the market.",update_listing
+Please remove all future viewing slots for the property at 10 Downing Street; the offer has been accepted.,update_listing
+Generate a blog post on 'The Ultimate Checklist for Moving into Your New Home'.,generate_blog_post
+Draft a description for a small café premises for sale in a bustling part of Soho.,generate_property_description
+Pull up any notes on the vendor's motivation for moving.,get_property_details
+"Describe a modern apartment in Berlin's Mitte district, close to public transport.",generate_property_description
+Draft an analysis of the luxury property market in Central London.,generate_blog_post
+I need copy for a ground-floor apartment with direct access to communal gardens in Harrogate.,generate_property_description
+Show me the crime rate statistics for the postcode of the Shoreditch flat.,get_property_details
+Set the picture of the garden as the primary photo for the listing in Esher.,update_listing
+Who was the previous agent marketing this property?,get_property_details
+I need a house with a driveway for at least two cars in Leicester.,search_properties
+Generate a blog post: 'Top 5 Up-and-Coming Areas in East London for 2026'.,generate_blog_post
+"Draft a description for a house in a gated community in Essex, focusing on security and privacy.",generate_property_description
+The measurements on the floorplan are in meters; please specify this in the description.,update_listing
+Show me properties where the garden is low-maintenance.,search_properties
+Please change the security deposit for the flat in Birmingham to 'Zero Deposit Option Available'.,update_listing
+Pull up the professional photographs for the listing in Stratford-upon-Avon.,get_property_details
+Show me the latest listings in the West End of Glasgow.,search_properties
+Does the property have an electric vehicle charging point?,get_property_details
+Create a listing for a converted windmill in Lincolnshire.,generate_property_description
+Update the number of bedrooms from 3 to '2 bedrooms plus study' for the property in Oxford.,update_listing
+Where is the property featured online? Show me all property portals.,get_property_details
+Write an article on how to create a standout online property listing with compelling descriptions.,generate_blog_post
+Create a blog post titled: 'Is Now a Good Time to Remortgage?',generate_blog_post
+What's the council's long-term plan for the park opposite the house?,get_property_details
+"Search for properties in the L1 postcode of Liverpool under £250,000.",search_properties
+Compose a piece on 'What to look for in the legal pack before bidding on an auction property'.,generate_blog_post
+Draft a guide on small bathroom renovation ideas that add significant value.,generate_blog_post
+Compose a lifestyle guide to living in the Cotswolds.,generate_blog_post
+"Update the EPC certificate on the listing for the house in Reading, I've uploaded the new one.",update_listing
+Show me the complete price history for the semi-detached in Sheffield.,get_property_details
+Are the kitchen appliances integrated and included in the sale?,get_property_details
+"The tenants have signed the lease for the Bristol flat, change its status to 'Let'.",update_listing
+"Change the price on the flat in Putney to OIRO £450,000.",update_listing
+"The virtual staging photos have arrived for the empty flat in Leeds, please integrate them into the main photo set.",update_listing
+"I need a description for a property with a separate annexe, ideal for guests or multi-generational living.",generate_property_description
+"The floor plan for the maisonette in Hackney is ready, please add it to the listing.",update_listing
+Write a guide to choosing neutral paint colours that appeal to the widest range of buyers.,generate_blog_post
+"Write a very concise, bullet-point style summary for a window display card.",generate_property_description
+What was the guide price at auction for the plot of land in Kent?,get_property_details
+What's the average broadband speed for the flat in Central London?,get_property_details
+Create a listing for an apartment with a 24-hour concierge service in a central Manchester block.,generate_property_description
+Are there any sinking fund details for the apartment building in Liverpool?,get_property_details
+Correct the square footage for the apartment in Liverpool to 850 sq ft.,update_listing
+The EPC chart needs to be added as the last image for the property in Cambridge.,update_listing
+Draft an article on how to factor school catchment areas into your property search.,generate_blog_post
+"The owner of 45 Elm Avenue, London, wants all viewings to be accompanied by me personally. Please add that as a note.",update_listing
+Update the summary for the Birmingham flat to highlight the 'secure underground parking'.,update_listing
+Generate an article explaining the legal responsibilities of a landlord.,generate_blog_post
+Let's update the listing for the Nottingham house to show 'Price Reduced for a Quick Sale'.,update_listing
+"Generate a neighbourhood guide to Clifton, Bristol.",generate_blog_post
+Create an aspirational description for a modern architectural masterpiece in Hampstead.,generate_property_description
+Property description for a 4-bed detached in a village outside of York.,generate_property_description
+"Can you find a split-level apartment in Barbican, London?",search_properties
+Draft a post on the 'Zoom Boom': Are people still moving out of cities for more space?,generate_blog_post
+The property at 15 Grove Park is now sold and completed. Please update the record.,update_listing
+Write a post on 'The Essential Guide to Kerb Appeal'.,generate_blog_post
+Please amend the listing for the Oxford house to state 'close to outstanding schools'.,update_listing
+Show me the vendor's conveyancer details for the sale in Bath.,get_property_details
+Write a post on 'Home Staging: The Ultimate Guide to Making Your Property Irresistible'.,generate_blog_post
+"The property in Stratford-upon-Avon is now officially sold, update the record.",update_listing
+Write an exclusive-sounding description for an off-market property you're offering to select clients.,generate_property_description
+Change the listing to reflect 'Offers Invited' for the cottage in Devon.,update_listing
+Add 'Residents' parking permit required from the council' to the parking details for the Camden property.,update_listing
+Please remove the phrase 'quiet street' from the description; there are roadworks planned.,update_listing
+Schedule an open day for the house in Wimbledon on Saturday from 2 PM to 4 PM.,update_listing
+"Summarize the best features of a family home in Moseley, Birmingham.",generate_property_description
+I need a description for a plot of land for sale in Kent with planning permission for a detached house.,generate_property_description
+Generate a post titled 'UK Rental Market Predictions for 2026'.,generate_blog_post
+Create an article on the benefits of getting a pre-sale property survey.,generate_blog_post
+Show me properties with bi-fold doors leading out to the garden.,search_properties
+Show me everything with an EPC rating of B or higher in Bristol.,search_properties
+"I need a house with a large, modern kitchen island in a suburb of Leeds.",search_properties
+Show me properties with a home office space in Oxford.,search_properties
+Help me write a Rightmove ad for a 2-bedroom terrace in Bristol's Bedminster area.,generate_property_description
+"Write me a description for a rustic farmhouse in Tuscany, Italy, with an olive grove.",generate_property_description
+Change the main photo for the Surrey listing to the drone shot of the entire plot.,update_listing
+Are there any known restrictive covenants on the land for the farmhouse in the Cotswolds?,get_property_details
+Draft an article explaining the different government schemes available for first-time buyers in 2025.,generate_blog_post
+Has this property been on the market recently with another agent?,get_property_details
+Find a ground-floor apartment suitable for an elderly person in Chester.,search_properties
+Write a post on effective maintenance strategies to protect your rental investment long-term.,generate_blog_post
+Show me a comparison of the asking price against similar sold properties in the area.,get_property_details
+I need a description for a property with equestrian facilities in rural North Yorkshire.,generate_property_description
+Is there a digital brochure I can send to my client for the house in Harrogate?,get_property_details
+Write a description for a static caravan on a premium holiday park in North Wales.,generate_property_description
+"Mark the flat in Shoreditch as under offer, I've just had the memorandum of sale sent out.",update_listing
+"Find a two-bed, two-bath apartment in a new development in Stratford, London.",search_properties
+Create a neighbourhood guide to the trendy Northern Quarter in Manchester.,generate_blog_post
+Show me all properties with a guide price between £700k and £850k in St Albans.,search_properties
+"What are the parking restrictions on the street outside the flat in Clifton, Bristol?",get_property_details
+Find a top-floor flat with lift access in Edinburgh.,search_properties
+"Draft a description for a large family home in a prime school catchment area in Hale, Cheshire.",generate_property_description
+"How many times has this listing fallen through, and why?",get_property_details
+I'm looking for a property near the University of Nottingham.,search_properties
+Please correct the school mentioned in the listing; it should be 'St. Mary's Primary' not 'St. John's'.,update_listing
+Let's get this property sold. Write a compelling description for a 2-bed in Croydon with a long lease.,generate_property_description
+Write a guide to investing in commercial-to-residential property conversions.,generate_blog_post
+Write a guide for freelancers and self-employed individuals on securing a mortgage.,generate_blog_post
+"The sale at 99 River View has officially fallen through, please reactivate the listing.",update_listing
+What's on the market in Canterbury with at least three bedrooms?,search_properties
+Could you put together some words for a modern loft in downtown Los Angeles?,generate_property_description
+Generate an article explaining what 'covenants' on a property are.,generate_blog_post
+"We've had no interest, let's reduce the asking price for the Durham house by £10,000.",update_listing
+Generate a blog post: 'A Lifestyle Guide to Canal-side Living in London'.,generate_blog_post
+Are there any properties that are part of a gated community in Surrey?,search_properties
+"Write a buyer's guide to leasehold properties, including service charges and ground rent.",generate_blog_post
+What's the tenure of the garage for the house in Southampton?,get_property_details
+I'd like to see homes with at least a 100-foot long garden in Essex.,search_properties
+"The current tenants are leaving early, so the flat is 'Available Now'. Please update the listing.",update_listing
+Show me all waterfront properties in Salford Quays.,search_properties
+"What five-bedroom houses are for sale in Hale, Greater Manchester?",search_properties
+Create a short description for a 2-bed granite tenement flat in central Aberdeen.,generate_property_description
+Can you make me an enticing social media post about a starter home in Walthamstow?,generate_property_description
+Find the estimated renovation cost for the fixer-upper in Glasgow.,get_property_details
+Generate an article explaining 'restrictive covenants' and how they can affect a property owner.,generate_blog_post
+Create a post explaining what a 'Deed of Trust' is and when you need one.,generate_blog_post
+The sellers want to add 'Potential to extend (STPP)' to the property details in Guildford.,update_listing
+Show me homes with countryside views in rural Yorkshire.,search_properties
+Create an article titled: 'How to Save for a Deposit in London'.,generate_blog_post
+"I need a place with a designated parking spot, not just on-street parking, in central Brighton.",search_properties
+Tell me the projected capital growth for the property in East London.,get_property_details
+Draft a guide to selling a property that requires major renovation.,generate_blog_post
+How many bedrooms does the property in Richmond have?,get_property_details

@@ -1,0 +1,399 @@
+Generate a property description for a 4-bedroom detached house in Harpenden with a large, south-facing garden.
+
+Write a listing for a two-bed flat in Clifton, Bristol, emphasizing its balcony views over the suspension bridge.
+
+I need a property description for a 3-bed semi-detached home in a family-friendly estate in Milton Keynes.
+
+Create the text for a studio apartment in Brighton, noting its close proximity to The Lanes and the seafront.
+
+Draft an ad for a 5-bedroom townhouse in Edinburgh's New Town, focusing on its Georgian architecture.
+
+Generate a compelling description for a one-bedroom garden flat in Fulham.
+
+Write a description for a modern, high-spec apartment in Birmingham's Jewellery Quarter.
+
+I need a description for a retirement bungalow in a quiet community in Norwich.
+
+Create a short description for a 2-bed terraced house in Cardiff, perfect for first-time buyers.
+
+Draft a description for a large family home in a prime school catchment area in Hale, Cheshire.
+
+Generate text for a Zoopla listing: a 3-bed cottage in the Cotswolds with a log burner.
+
+Write me a description for a student let, 4 bedrooms, fully furnished, near the University of Nottingham.
+
+Create a detailed description for a penthouse apartment in Liverpool with panoramic city and river views.
+
+I need a description for a fixer-upper; it's a 3-bed semi in Sheffield that needs full renovation.
+
+Generate a description for a new build home in a development outside Cambridge, highlighting the commuter links to London.
+
+Write a description for a split-level maisonette in Clapham with its own private entrance.
+
+Draft the copy for a lakeside lodge in the Lake District, emphasizing its holiday let potential.
+
+I need a description for a property with equestrian facilities in rural North Yorkshire.
+
+Create a description for a ground-floor flat with direct garden access in Glasgow's West End.
+
+Generate a description for a Georgian townhouse in Bath, focusing on its restored period features.
+
+Compose a luxury property description for a mansion in St George's Hill, Weybridge.
+
+Generate an elegant description for a duplex penthouse in Canary Wharf with 24-hour concierge.
+
+Write a premium listing for a country estate in the Surrey Hills with a swimming pool and tennis court.
+
+I need a sophisticated description for a spacious lateral apartment in Mayfair.
+
+Draft the marketing text for a newly designed smart home in Sandbanks, Poole.
+
+Create a high-end description for a warehouse conversion in Shoreditch with double-height ceilings.
+
+Generate a description for a waterfront villa in Cornwall with private beach access.
+
+Write a description for a designer apartment in Knightsbridge, furnished by a renowned interior designer.
+
+I need a brochure description for a historic manor house for sale in Oxfordshire with extensive grounds.
+
+Compose a compelling description for a property with a home cinema and gym in Chelsea.
+
+Generate a luxury listing for an apartment in Manchester's Beetham Tower.
+
+Draft text for a stunning barn conversion in Herefordshire with several acres of land.
+
+Create an aspirational description for a modern architectural masterpiece in Hampstead.
+
+Write a description for a riverside apartment in a prestigious development in Nine Elms.
+
+I need a description for a Regency-era villa in Cheltenham, meticulously restored.
+
+Generate a description for a flat perfect for remote work, highlighting the dedicated office space.
+
+Write a description for a house with an impressive south-facing garden in Leicester.
+
+I need a description for a property with excellent transport links, just minutes from Reading station.
+
+Create a description for an eco-friendly house with solar panels and a heat pump in Bristol.
+
+Draft a description for a pet-friendly apartment building in Leeds, mentioning the nearby parks.
+
+Generate a description for a top-floor flat, emphasizing the great natural light.
+
+Write a description for a Victorian conversion flat that retains original fireplaces and cornicing.
+
+I need a description for a property with a separate annexe, ideal for guests or multi-generational living.
+
+Create a listing for a home with a large, modern kitchen-diner designed for entertaining.
+
+Draft a description for a house in a gated community in Essex, focusing on security and privacy.
+
+Generate text for a property that has recently been fully refurbished to a high standard.
+
+Write a description for a home located on a quiet, no-through road in Nottingham.
+
+I need copy for a ground-floor apartment with direct access to communal gardens in Harrogate.
+
+Create a description that highlights the significant built-in storage in a 2-bed London flat.
+
+Draft a description for a home with off-street parking for multiple cars in central Cambridge.
+
+Generate a description for a property with a large loft space with potential for conversion.
+
+Write a description for a home within walking distance of the city centre of York.
+
+I need a description for a house with a newly installed summer house/home office in the garden.
+
+Create a listing for an apartment with a 24-hour concierge service in a central Manchester block.
+
+Draft a description for a property that is being sold with no onward chain.
+
+Write a professional description for a modern office space for lease in Spinningfields, Manchester.
+
+Generate a listing for a retail unit with a prime high street location in Chester.
+
+I need a description for a plot of land for sale in Kent with planning permission for a detached house.
+
+Create the marketing text for a large industrial warehouse to let near Heathrow Airport.
+
+Draft a description for a small café premises for sale in a bustling part of Soho.
+
+Can you generate a description for a holiday villa in Marbella, Spain, with a private pool?
+
+Give me a description for a ski chalet in the French Alps, focusing on its ski-in/ski-out access.
+
+I need some marketing copy for a new condo development in Dubai Marina.
+
+Write me a description for a rustic farmhouse in Tuscany, Italy, with an olive grove.
+
+Describe a modern apartment in Berlin's Mitte district, close to public transport.
+
+Make me a description for a 2-bedroom pre-war apartment on New York's Upper West Side.
+
+Could you draft a property description for a coastal home in Sydney, Australia, with ocean views?
+
+Help me write a listing for a traditional Riad in the Medina of Marrakech, Morocco.
+
+Generate some text for a penthouse in Miami with a rooftop terrace and jacuzzi.
+
+Can you create an ad for a small studio flat in Le Marais, Paris?
+
+Write a description for a semi-detached house in a Dublin suburb.
+
+Please compose a description for a 4-bed family home in a suburb of Toronto, Canada.
+
+I need your help writing a description. It's for a one-bed flat in Hackney that needs a quick sale.
+
+Let's write a description for a houseboat on a canal in Amsterdam.
+
+Create an Instagram caption for a new luxury listing we have in Belgravia.
+
+I'm stuck. Can you write a punchy description for a student studio near a London university?
+
+Please generate a compelling description for a beach house for sale in Cape Town, South Africa.
+
+I'd like a property description for a historic apartment in Rome, near the Pantheon.
+
+Could you put together some words for a modern loft in downtown Los Angeles?
+
+Draft me something for a small cottage on the west coast of Ireland.
+
+Write me something for a 2-bed new-build in Peckham.
+
+I need a short description for a Rightmove ad. It's a 3-bed semi in a suburb of Leeds.
+
+Generate a short bio for a top-floor flat in Islington.
+
+Can you make me an enticing social media post about a starter home in Walthamstow?
+
+Quick description needed for a 1-bed retirement flat in Bristol.
+
+Draft a tweet about a new family home we've just listed in a leafy Manchester suburb.
+
+Give me a punchy opening line for a warehouse conversion listing in Shoreditch.
+
+Describe a 4-bedroom house in Solihull. Make it sound perfect for a growing family.
+
+Can you write a Facebook post for a new property on the market? It's a bungalow in Bournemouth.
+
+Just list the key features in a descriptive paragraph for a 2-bed with a balcony in Clapham.
+
+Write a description, but focus on the investment angle. It's a flat near Manchester University.
+
+Need some text for a window card. It's a 2-bed terrace in Sheffield.
+
+Make it sound luxurious: a penthouse, Liverpool docks, amazing views.
+
+Describe a cottage in the Cotswolds. Emphasize 'cozy' and 'charming'.
+
+I need a short, professional description for a commercial unit in Birmingham's business district.
+
+Create a description for a plot of land with woodland in rural Scotland.
+
+Generate the text for a property auction catalogue: a 2-bed flat needing modernisation in South London.
+
+Draft a description for a home with an annex suitable for an elderly relative.
+
+Write a description for an apartment that is part of a shared ownership scheme.
+
+I need a description that highlights the low service charge for a purpose-built flat in Coventry.
+
+Help me write a Rightmove ad for a 2-bedroom terrace in Bristol's Bedminster area.
+
+What should I say about a 5-bed detached house in Sevenoaks with a home office?
+
+I need some words for a flat I'm selling in Angel, Islington. It's a one-bed with a small balcony.
+
+Can you help me market a top-floor apartment in Leith, Edinburgh, with views of the Firth of Forth?
+
+Compose some copy for a student house in Fallowfield, Manchester, available for the next academic year.
+
+Got a bungalow for sale in Worthing. Need a description that appeals to retirees.
+
+Text for Zoopla listing: 4 bed townhouse, Greenwich, London, in a secure gated development.
+
+Need a description for a new build apartment in Salford Quays, highlighting the EWS1 certificate.
+
+Summarize the best features of a family home in Moseley, Birmingham.
+
+Write up a listing for me. It's a 3-bed semi-detached in a Cardiff suburb with a garage and driveway.
+
+How would you describe a penthouse with a wraparound terrace in Leeds city centre?
+
+Struggling with the words for a remote cottage in Snowdonia. Can you help?
+
+Just listed a property in Jesmond, Newcastle. It's a 3-bedroom upper maisonette and needs a great description.
+
+Give me a draft for a 1-bed ex-local authority flat in Bethnal Green, London. Focus on the value.
+
+Need to advertise a room for rent in a shared house in Brighton. Write me a short, friendly ad.
+
+Can you whip up a description for a waterside apartment in Paddington Basin?
+
+Let's get this property sold. Write a compelling description for a 2-bed in Croydon with a long lease.
+
+I need a short and sweet description for an Instagram post about a charming cottage in Cornwall.
+
+What's a good way to describe a modern apartment near Temple Meads station in Bristol?
+
+Describe this property for me: 2 beds, ground floor, private patio, right next to Wandsworth Common.
+
+Write a description for a 1-bed flat that needs to sell fast. Make it sound like a bargain.
+
+Generate a description that makes a studio apartment sound spacious and cleverly designed.
+
+Create a listing for a family home using a warm and inviting tone.
+
+I need a professional and formal description for a corporate let in the City of London.
+
+Draft a description that emphasizes the 'hidden gem' quality of a mews house in South Kensington.
+
+Write an aspirational description for a designer loft in Clerkenwell.
+
+Generate a description for a house that's a 'blank canvas', perfect for renovation.
+
+Create a description for a property in a conservation area, highlighting its protected character.
+
+I need a description focused on the lifestyle benefits of a flat near the bars and restaurants of Manchester's Northern Quarter.
+
+Write a description targeting downsizers for a luxury 2-bed apartment with a lift and secure parking.
+
+Generate a punchy, energetic description for a first-time buyer flat in Brixton.
+
+Draft a description that highlights the peace and quiet of a rural property in the Peak District.
+
+Create a description that focuses purely on the investment yield for a property near a major hospital.
+
+Write a very concise, bullet-point style summary for a window display card.
+
+Generate a romantic and evocative description for a thatched cottage in a Dorset village.
+
+I need a description for a converted church in Norfolk with original stained-glass windows.
+
+Generate a listing for a wide-beam narrowboat moored in Little Venice, London.
+
+Write a description for a Grade I listed oast house for sale in Kent.
+
+Draft a description for an entire block of 6 flats being sold as a single freehold investment.
+
+Create a description for a single garage for sale in a residential area of Hove.
+
+I need to market a former pub with planning permission to convert to residential units.
+
+Write a description for a static caravan on a premium holiday park in North Wales.
+
+Generate a description for a live/work unit in Hackney Wick.
+
+Draft the copy for a smallholding in Carmarthenshire with outbuildings and five acres of land.
+
+I need a description for a modernist 'Grand Designs' style house in the Sussex countryside.
+
+Generate a description for a three-storey Victorian townhouse in the golden triangle of Norwich.
+
+Write a listing for a modern apartment overlooking the marina in Swansea.
+
+I need a description for a stone-built cottage in the heart of a Yorkshire Dales village.
+
+Create the text for a 1930s semi-detached house in a suburb of Leicester.
+
+Draft an ad for a large apartment in a converted mill in Bradford's Little Germany.
+
+Generate a compelling description for a detached bungalow in a cul-de-sac in Peterborough.
+
+Write a description for a waterfront apartment in Ipswich with potential mooring rights.
+
+I need a description for a terraced house in the popular area of Southville, Bristol.
+
+Create a short description for a 2-bed granite tenement flat in central Aberdeen.
+
+Draft a description for a large family home in a sought-after part of Solihull.
+
+Write a description for a luxury condo in Vancouver, Canada, with mountain and ocean views.
+
+Generate a listing for a historic brownstone in Brooklyn's Park Slope neighborhood.
+
+I need a description for a vineyard property for sale in the Bordeaux region of France.
+
+Create marketing copy for a new beachfront apartment complex in Lisbon, Portugal.
+
+Draft a description for a traditional wooden house in a quiet suburb of Tokyo, Japan.
+
+Generate a professional description for a light industrial unit on an estate in Swindon.
+
+Write a listing for a takeaway food business with living accommodation above in a suburb of Manchester.
+
+I need a description for a portfolio of 10 tenanted properties being sold by an investor.
+
+Create the marketing text for a cleared development site with outline planning for 20 new homes.
+
+Draft a description for a large, open-plan office floor in a building in Leeds city centre.
+
+Make a description for a flat that's small but in a prime location in central London.
+
+Property description for a 4-bed detached in a village outside of York.
+
+Draft me something for a period conversion flat in Tunbridge Wells.
+
+Write the blurb for a new instruction: a 5-bed executive home in Alderley Edge.
+
+Need ad copy for a retirement property in a managed complex in Eastbourne.
+
+Write an exclusive-sounding description for an off-market property you're offering to select clients.
+
+Draft a description that overcomes an objection, for example, a flat above a commercial premises.
+
+Create a description for a property with stunning, uninterrupted sea views in Devon. Make this the main focus.
+
+Generate a description for a new homes development, focusing on the community and shared amenities.
+
+Create a listing for a converted windmill in Lincolnshire.
+
+Write a description for an underground eco-home built into a hillside.
+
+Generate a description for a timber lodge in a managed forest resort in Scotland.
+
+I need to sell a Martello tower on the Suffolk coast. Write a suitably historic and unique description.
+
+Draft a description for a freehold parcel of woodland for sale in Herefordshire.
+
+Generate text for a Zoopla listing: a Grade II listed weavers' cottage in Macclesfield.
+
+Write me a description for a modern family home on the outskirts of Belfast.
+
+Create a detailed description for a flat within a prestigious mansion block in Maida Vale, London.
+
+I need a description for a 'chocolate box' cottage in a village near Canterbury.
+
+Generate a description for a property located in a private gated mews in Notting Hill.
+
+Write a description for a large apartment in a beautiful crescent in Bath.
+
+Draft the copy for a house needing modernisation in Bearwood, Birmingham.
+
+I need a description for a property with development potential (STPP) on a large plot in Essex.
+
+Create a description for a top-floor apartment in a new development in Finnieston, Glasgow.
+
+Generate a listing for a terraced house with views of the castle in Conwy, Wales.
+
+Generate an ad for a modern apartment in a secure complex in Johannesburg, South Africa.
+
+Write a listing for a rustic 'finca' (country estate) in Mallorca, Spain.
+
+I need a description for a canal-side apartment in Copenhagen, Denmark.
+
+Create a description for a luxury apartment in a high-rise in Singapore.
+
+Draft a listing for a charming apartment with a balcony in the Trastevere neighborhood of Rome.
+
+Generate a description for a former bank building suitable for conversion into a restaurant.
+
+Write a listing for a small, lock-up shop unit in a busy suburban parade.
+
+I need a description for a data centre facility for lease near London.
+
+Create a brochure entry for a new development of high-tech business units.
+
+Draft a description for a large agricultural barn with potential for Class Q permitted development.
+
+Compose a description for a houseboat on the River Thames at Cheyne Walk.

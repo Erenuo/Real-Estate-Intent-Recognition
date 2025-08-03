@@ -1,0 +1,399 @@
+Find three-bedroom houses in Cardiff with off-street parking.
+
+Show me pet-friendly apartments for sale in Leeds city centre.
+
+Are there any riverside properties available in Richmond upon Thames?
+
+I'm looking for a ground floor maisonette in Brighton with a private garden.
+
+Search for properties in the L1 postcode of Liverpool under £250,000.
+
+List all homes for sale in the school catchment area for St. Peter's School in Exeter.
+
+I want to see new build developments in Reading.
+
+Find me a detached bungalow in Norfolk, it must be chain-free.
+
+Show me properties with a large garden in the Surrey Hills.
+
+What's on the market in Notting Hill for around £2 million?
+
+Search for penthouses in Manchester with a roof terrace.
+
+I need a two-bed flat in Glasgow's West End.
+
+Find any properties listed for auction in Sheffield.
+
+Show me farmhouses with land in the Peak District.
+
+Are there any semi-detached houses with at least 3 bedrooms in Southampton?
+
+I'm looking for a studio flat near a tube station in Zone 2, London.
+
+Find all listings in the historic town of Windsor.
+
+Show me properties with a home office space in Oxford.
+
+I need a family home with 4+ bedrooms in a quiet cul-de-sac in Harrogate.
+
+Search for homes with a granny annexe in Devon.
+
+What cottages are for sale in the Lake District?
+
+Show me all properties with a guide price between £700k and £850k in St Albans.
+
+Find me a modern, open-plan apartment in Canary Wharf.
+
+I'm interested in period terraced houses in Islington.
+
+Are there any homes with a swimming pool in Cheshire?
+
+Search for properties that are being sold via shared ownership in Bristol.
+
+I want to find a fixer-upper project in East London.
+
+Show me all detached homes with a double garage in Cheltenham.
+
+Find me a one-bedroom flat with a balcony in Liverpool's Baltic Triangle.
+
+List all properties within a 10-minute drive of Heathrow Airport.
+
+I'm looking for a character property in Stratford-upon-Avon.
+
+Are there any new flats on the market in the B1 postcode?
+
+Show me homes with countryside views in rural Yorkshire.
+
+Find a top-floor flat with lift access in Edinburgh.
+
+I need a property with disabled access in Bath.
+
+Search for houses for sale on Cotham Road in Bristol.
+
+What's available in Newcastle upon Tyne for first-time buyers?
+
+Show me all waterfront properties in Salford Quays.
+
+Find me a house that has been recently reduced in price in Leicester.
+
+I'm looking for a large, detached family home in Solihull.
+
+Are there any thatched cottages for sale in Dorset?
+
+Search for eco-homes or properties with solar panels in Brighton.
+
+Show me all listings in the Golden Triangle of Norwich.
+
+Find me a property with a separate utility room in Guildford.
+
+I need a bungalow with at least two bedrooms in Lincoln.
+
+What five-bedroom houses are for sale in Hale, Greater Manchester?
+
+Show me properties with allocated parking in central Cambridge.
+
+Find all homes within the boundary of Dartmoor National Park.
+
+I'm looking for a Georgian townhouse in Bath.
+
+Are there any properties with a concierge service in central London?
+
+Search for a maisonette with its own entrance in Hove.
+
+I want to see listings that have a virtual tour available in Manchester.
+
+Find me a home with a south-facing garden in Winchester.
+
+Show me apartments in a converted warehouse in Shoreditch.
+
+I'm looking for a property near the University of Nottingham.
+
+List all homes with an asking price over £1.5 million in Weybridge.
+
+Find a three-bed semi-detached house in the suburbs of Birmingham.
+
+Are there any new-builds ready to move into in Milton Keynes?
+
+Search for properties that accept offers in the region of £300k in Leeds.
+
+Show me all available homes in the village of Alderley Edge.
+
+I need a flat with two bathrooms in Clapham.
+
+Find me a Victorian terraced house in the Moseley area of Birmingham.
+
+I'm interested in properties with potential to extend in South West London.
+
+What's for sale on the Isle of Wight with a sea view?
+
+Show me retirement properties in Bournemouth.
+
+Find a quiet property, not on a main road, in York.
+
+Search for homes with good transport links to central London.
+
+I'm looking for a penthouse apartment in Liverpool with views of the Mersey.
+
+Are there any properties that are part of a gated community in Surrey?
+
+Find me a house with a large kitchen-diner in Bristol.
+
+Show me all the listings on Zoopla in the SK9 postcode.
+
+I need a pet-friendly two-bed flat with some outdoor space in Edinburgh.
+
+Search for homes within a 2-mile radius of Reading station.
+
+Find a property that's close to a good primary school in North London.
+
+What's on the market in Canterbury with at least three bedrooms?
+
+I'm looking for a barn conversion in the Cotswolds.
+
+Show me properties under £500,000 in Brighton and Hove.
+
+Find all homes for sale in Clifton Village, Bristol.
+
+Are there any flats with a 24-hour concierge in Manchester's Deansgate?
+
+I want to see houses that are chain-free and have a garden in Reading.
+
+Search for a property with an annex or separate living space in Kent.
+
+Show me the latest listings in the West End of Glasgow.
+
+Find me a detached home with five bedrooms in the Richmond area.
+
+I'm looking for something with character, maybe an old schoolhouse or chapel conversion.
+
+What's available in the Jewellery Quarter, Birmingham, with secure parking?
+
+Show me all properties within a 20-minute walk of the city centre in York.
+
+Find a ground-floor apartment suitable for an elderly person in Chester.
+
+I need a house with a driveway for at least two cars in Leicester.
+
+Search for properties with a view of the castle in Edinburgh.
+
+Are there any shared ownership schemes available in Zone 3 of London?
+
+I'm looking for a modern town house with at least three floors in Cambridge.
+
+Find me a property with a log burner or open fireplace in a rural location.
+
+Show me all the homes for sale on Church Road, Barnes.
+
+I need a flat that is close to the Northern Line.
+
+Find a house in a village near Oxford, budget is around £800k.
+
+What kind of bungalows are for sale in Suffolk?
+
+I'm looking for a family home in the catchment for Altrincham Grammar School.
+
+Show me properties with a large conservatory in the Southampton area.
+
+Find me an apartment in a building with a residents' gym in Leeds.
+
+Search for all homes listed this week in the SW19 postcode.
+
+Pull up all listings in Harrogate with original period features.
+
+Can you find a split-level apartment in Barbican, London?
+
+I need a detached property with at least an acre of land in rural Wales.
+
+Show me everything with an EPC rating of B or higher in Bristol.
+
+What's for sale in Poole with a private boat mooring?
+
+I'm searching for an end-of-terrace house in the Wimbledon Village area.
+
+Are there any properties with a separate studio or workshop in the garden in Brighton?
+
+Find me a leasehold flat in Manchester where the lease is over 900 years.
+
+Show me homes in the Cotswolds that have been on the market for more than three months.
+
+I need a house with a cellar and a loft with conversion potential in South London.
+
+What have you got in the £400k-£450k price bracket in York?
+
+Search for properties that are 'back on the market' in the Bath area.
+
+Find me a home with an electric vehicle charging point in Milton Keynes.
+
+Show me all 'Price on Application' listings in Chelsea.
+
+I'm looking for a two-bedroom cottage in a quiet village in Suffolk.
+
+Are there any apartments in Liverpool with floor-to-ceiling windows?
+
+I want to see houses with a pantry or a larder in the kitchen in Cambridge.
+
+Find a property with a self-contained annexe, suitable for an elderly relative, in Hampshire.
+
+Show me everything listed in the last 48 hours in the E1 postcode.
+
+I'm looking for a property that is vacant and chain-free for a quick purchase; location is flexible but must be a city.
+
+What three-bed semi-detached homes are available near Jesmond Dene in Newcastle?
+
+Find me a property with good natural light and high ceilings in Edinburgh's New Town.
+
+Show me all homes for sale on King Street, Cambridge.
+
+I need a place with a designated parking spot, not just on-street parking, in central Brighton.
+
+Are there any homes for sale with access to a communal gym and pool in Salford?
+
+Search for properties advertised as having 'panoramic views' in the Peak District.
+
+I'd like to see all bungalows for sale in the county of Lincolnshire.
+
+Find me a house that needs modernisation in the suburbs of Glasgow.
+
+Show me properties with an en-suite bathroom for every bedroom in Northwood.
+
+My client is interested in anything with equestrian facilities in West Sussex.
+
+Find a shared freehold garden flat in Islington.
+
+I'm looking for a project, maybe a derelict barn or an old pub with planning permission.
+
+Show me all the properties being marketed by Savills in Surrey.
+
+Are there any new build apartments with a winter garden or enclosed balcony in London?
+
+What's on the market in Shrewsbury with four or more bedrooms?
+
+I need a property within a 5-minute walk of a good coffee shop in Manchester's Northern Quarter.
+
+Find me a home with underfloor heating in a new development near Reading.
+
+Show me listings with a '3D tour' option in the Nottingham area.
+
+I'm looking for a top-floor flat in a Victorian conversion in Bristol.
+
+Search for homes with a formal dining room in the Harrogate area.
+
+Are there any properties with a private cinema room in Cheshire?
+
+Find a family home close to Heaton Park in Manchester.
+
+I'd like to see homes with at least a 100-foot long garden in Essex.
+
+Show me everything that was reduced in price last week in the whole of Kent.
+
+What do you have that's a penthouse with direct lift access in Birmingham?
+
+Find me a stone-built cottage in the Yorkshire Dales.
+
+I'm looking for a secure apartment in a portered block in Kensington.
+
+Search for properties that are exclusively for cash buyers in Liverpool.
+
+Show me homes within walking distance of the beach in Cornwall.
+
+Are there any Grade II listed properties for sale in Bath?
+
+I need a house with a large, modern kitchen island in a suburb of Leeds.
+
+Find all properties for sale on the banks of the River Thames in Berkshire.
+
+What's available in the old town of Hastings?
+
+Show me homes with a secure bike storage facility in Cambridge.
+
+I'm looking for something quirky, like a windmill or a water tower conversion.
+
+Find a flat with a service charge of less than £2000 per year in London Zone 3.
+
+Search for properties that have planning permission granted for an extension in Hertford.
+
+Are there any homes with a roof terrace that has views of the London skyline?
+
+I want to find a three-bedroom house that's been recently refurbished in Cardiff.
+
+Show me all available properties in the conservation area of Lincoln.
+
+Find a detached house on a corner plot in the suburbs of Nottingham.
+
+I need a property with a driveway that can accommodate a caravan or motorhome.
+
+Search for apartments in buildings that are known for their architecture in Manchester.
+
+What's for sale that would be suitable for a buy-to-let investor in Sheffield?
+
+Show me homes with a 'smart home' system already installed.
+
+Find me a property with a separate home office that isn't a bedroom, in the Bristol area.
+
+I'm looking for a house with a big utility room and a boot room in a rural area.
+
+Are there any townhouses with an integrated garage in Clifton, Bristol?
+
+Search for properties that come with a tenanted contract in place in Liverpool.
+
+Show me all homes for sale in the village of Painswick in the Cotswolds.
+
+Find a flat that is on the top floor but not a penthouse in a modern block in Leeds.
+
+I need a property with land suitable for keeping chickens or a smallholding.
+
+What's available near the American School in London in St John's Wood?
+
+Show me properties with bi-fold doors leading out to the garden.
+
+Find me a house with no onward chain and a motivated seller in York.
+
+I'm looking for a property with a westerly-facing garden for evening sun.
+
+Are there any apartments with access to a residents' lounge in Birmingham?
+
+Search for a family home with a playroom or a second reception room.
+
+Show me all the properties that have dropped their price by more than 5% in the last month.
+
+Find a two-bed, two-bath apartment in a new development in Stratford, London.
+
+I need a house that isn't overlooked from the back, in a quiet part of Reading.
+
+What's on the market that would be perfect for a young professional couple in Manchester?
+
+Show me homes with a 'walk-in wardrobe' in the master bedroom.
+
+Find a property within the M25 with at least 4 bedrooms and a garden for under £1m.
+
+Search for homes with low council tax bands in the Chester area.
+
+I'm looking for a property that's part of a well-maintained estate.
+
+Are there any homes available with a wine cellar?
+
+Find me an apartment with very high ceilings, maybe in a converted school or factory.
+
+Show me everything for sale in the 'Laines' area of Brighton.
+
+I want a property that has been featured in a design magazine.
+
+Search for a detached bungalow on a single level with no steps in Devon.
+
+Find a home where all the bedrooms are large doubles.
+
+I need a place with fibre optic broadband already connected.
+
+What's for sale in the 'Toast Rack' area of Wandsworth Common?
+
+Show me properties where the garden is low-maintenance.
+
+Find me a house that has a stream or river at the bottom of the garden.
+
+I'm looking for a property with a large, welcoming entrance hall.
+
+Are there any homes for sale that include a separate guest cottage?
+
+Search for properties with direct access to a park or common.
+
+Show me a three-bedroom house with a garage and a driveway in a good Bristol school catchment.

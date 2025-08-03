@@ -1,0 +1,399 @@
+The offer on the Glasgow flat has been accepted, mark it as Under Offer.
+
+Drop the price of the flat in Islington by £25,000.
+
+Upload the video tour for the property at 99 Redcliffe Square, London.
+
+The vendors for the Manchester property have accepted an offer, can you update the listing?
+
+Change the available date for the rental flat in Birmingham to September 1st.
+
+The sellers want to add 'Potential to extend (STPP)' to the property details in Guildford.
+
+Please relist the property at 7 Cherry Tree Lane, the chain broke.
+
+Add 'Chain free' to the property description for 14 Maple Drive, Leeds.
+
+Update the status of the bungalow in Cornwall to Sold STC.
+
+The EPC rating for the Glasgow flat is C, please update the listing.
+
+Schedule an open day for the house in Wimbledon on Saturday from 2 PM to 4 PM.
+
+The sellers have decided not to sell, withdraw the listing for the cottage in the Cotswolds.
+
+Change the headline for the London Bridge flat to 'Stunning Riverside Apartment with Balcony'.
+
+The landlord will now consider pets, please add 'Pets considered' to the listing in Islington.
+
+The sale didn't go through for the Birmingham property, please make it available again.
+
+The owners want to change the price for the house on Richmond Road to 'Offers in excess of £750,000'.
+
+The floor plan for the maisonette in Hackney is ready, please add it to the listing.
+
+Correct the square footage for the apartment in Liverpool to 850 sq ft.
+
+Update the viewing instructions for the property in Leeds: '24 hours notice required'.
+
+The house on Elm Street, Manchester is now sold.
+
+The landlord has agreed to reduce the rent for the Leeds apartment to £950 PCM.
+
+The vendors have agreed to a price drop, make the new price for the Derby house £210,000.
+
+The tenants at the Manchester property require 48 hours' notice, please add this to the notes.
+
+Remove the winter shots and add the new summer photos for the property on The Green, Richmond.
+
+Change the number of bathrooms from 1 to 2 for the property on Church Road, Bristol.
+
+The apartment in Bath has been let, update the system.
+
+Correct the property description, it's a 'Juliette balcony' not a full balcony, for the flat in Brighton.
+
+Please add the drone footage to the gallery for the farmhouse in Wales.
+
+The deal on the Edinburgh apartment has collapsed, please relist it.
+
+Update the deposit for the Shoreditch flat to be '5 weeks' rent'.
+
+Add a note to the listing in Southampton: 'Cash buyers only'.
+
+Change the listing to reflect 'Offers Invited' for the cottage in Devon.
+
+The property in Stratford-upon-Avon is now officially sold, update the record.
+
+The correct postcode for the Newcastle property is NE1 2AB, please change it.
+
+Set the picture of the garden as the primary photo for the listing in Esher.
+
+Let's do a launch day for the Cambridge property next Saturday.
+
+Can you update the property type from 'Terraced' to 'End of Terrace' for the listing in Sheffield?
+
+Take the property at 1 Abbey Road, London off the market.
+
+Change the furnishing status to 'Unfurnished' for the property on Old Kent Road.
+
+The seller wants to knock £5,000 off the asking price for the house in Leicester.
+
+Update the tenure to 'Leasehold' and add the remaining lease years: '95 years remaining'.
+
+Update the summary for the Birmingham flat to highlight the 'secure underground parking'.
+
+Can you replace the main image of the Liverpool flat with the one showing the balcony view?
+
+Let's move the Leeds warehouse listing to 'Under Offer'.
+
+The vendor for the property in Kent wants to temporarily withdraw it from sale.
+
+The council tax for the house in Edinburgh has been reassessed to Band F, please update.
+
+Please add 'All bills included' to the description of the student flat in Durham.
+
+Update the description for the house in Bath to mention the 'newly landscaped garden'.
+
+A virtual tour is now available for the City Centre apartment, please link it to the listing.
+
+Change the price to 'Price on Application' for the estate in Surrey.
+
+Mark the listing for the Oxford house as 'Let Agreed'.
+
+The sellers have confirmed the tenure is Freehold for the house in Solihull.
+
+Can you add 'Share of Freehold' to the key features of the Pimlico flat?
+
+The tenants have signed the lease for the Bristol flat, change its status to 'Let'.
+
+Increase the asking price for the mansion in Chelsea to £5,500,000.
+
+Add the updated floor plan which shows the new extension for the property in Reading.
+
+Add this sentence to the description of the Windsor property: 'The property benefits from a south-facing garden.'
+
+Cancel the open house scheduled for this weekend for the property in Richmond.
+
+Add 'Off-street parking' to the features for the Brighton house.
+
+The property on Willow Lane, York is now pending completion.
+
+The vendor wants to add "Vendor has found their next property" to the notes on the St Albans listing.
+
+Increase the monthly rent for the Canary Wharf rental to £2,200.
+
+Change the listing on High Street, Chester to 'Available'.
+
+Update the bullet points for the Canary Wharf apartment to include '24-hour concierge'.
+
+I've just uploaded new professional photos for the Manchester penthouse, please make them live.
+
+The lease on the London flat has been extended, it's now 999 years. Please update.
+
+Change the listing for the house in Cambridge to 'Furnished'.
+
+The market is hot, increase the price for the Shoreditch loft by £50,000.
+
+Please amend the listing for the Oxford house to state 'close to outstanding schools'.
+
+Remove the mention of the 'garage' and replace it with 'driveway parking' for the listing in Milton Keynes.
+
+The seller wants to specify 'No smokers' on the listing for the Bristol flat.
+
+Let's amend the price of the property in Exeter to £350,000.
+
+The property at 3 Garden Lane now has 5 bedrooms, not 4, please amend.
+
+The owner will be away, so add 'No viewings between August 10th and 20th' to the agent notes.
+
+Can you change the order of the photos for the Camden flat? Put the kitchen pictures first.
+
+The house in Windsor needs a price adjustment, new price is £1,200,000.
+
+Update the rental property in Birmingham: 'Available immediately'.
+
+The description for the house in Nottingham needs updating to include the new conservatory.
+
+Please add the service charge and ground rent details for the flat in Battersea.
+
+Change 45 King's Avenue, Cardiff to 'Under Offer'.
+
+Remove the 'By appointment only' note, the property is now vacant.
+
+Delete photo number 5 for the Brighton seafront property, it's out of date.
+
+The ground rent for the flat in Putney is zero, please update the details.
+
+Add a block viewing event for the Clapham flat next Tuesday between 5pm and 7pm.
+
+Can you reduce the price on the Newcastle apartment by 5%?
+
+Update the listing for the Southampton property to 'Guide Price £400,000 - £425,000'.
+
+The vendors sent over some better pictures for the Sheffield house, can you update them?
+
+Add 'Viewings to commence from the 5th of August' to the listing details for the York property.
+
+Update the asking price for the Lincoln property to £189,950.
+
+Can you set the status for the penthouse in Canary Wharf to 'Sold'?
+
+Please correct the spelling of 'ensuite' in the description for the Chester property.
+
+The property is not getting viewings, let's reduce the price on the Coventry listing.
+
+Change the open house for the Bristol property to Sunday instead of Saturday.
+
+Remove the old photos from the listing in York, the new ones are in the shared folder.
+
+Add the room dimensions to the listing for the Bristol home.
+
+Update the EPC certificate on the listing for the house in Reading, I've uploaded the new one.
+
+We have accepted an offer on 12 Orchard Close, please update its status.
+
+Add the new twilight photos to the listing for the house in Harrogate.
+
+Adjust the price for 8 Baker Street, the seller wants to be more competitive.
+
+Change the main photo for the Surrey listing to the drone shot of the entire plot.
+
+The sale on 42 Primrose Lane, Harrogate has collapsed, put it back on the market as 'Available'.
+
+Can you change the status for the flat on Deansgate, Manchester to 'Exchanged'?
+
+Mark the rental on Park Road, Bristol as 'Let Subject to Referencing'.
+
+The sellers have accepted an offer, but want it marketed as 'Under Offer' while we check the chain.
+
+Let's take the property in the Lake District off the market for the winter; the owner will relist in Spring.
+
+The tenants have paid their deposit for the flat in Cardiff, please move the status from 'Let Agreed' to 'Let'.
+
+We've got multiple offers, change the status of the house in Reading to 'Best and final offers by 5pm Friday'.
+
+The property at 15 Grove Park is now sold and completed. Please update the record.
+
+Put the bungalow in Bournemouth back on, the buyer couldn't secure a mortgage.
+
+The landlord has withdrawn the rental in Notting Hill, please remove the listing.
+
+Change the status of the Sheffield property to SSTC, we have a complete chain.
+
+The vendor wants to pause viewings, can you mark the listing as 'Temporarily Unavailable'?
+
+Probate has been granted for the house in York, please change its status to 'Available'.
+
+Mark the flat in Shoreditch as under offer, I've just had the memorandum of sale sent out.
+
+The sale at 99 River View has officially fallen through, please reactivate the listing.
+
+The sellers of the cottage in the Cotswolds want to test the market higher, increase the price by £15,000.
+
+Change the price on the flat in Putney to OIRO £450,000.
+
+Let's update the listing for the Nottingham house to show 'Price Reduced for a Quick Sale'.
+
+We need to adjust the price for the house in Bath to reflect the recent survey findings; the new price is £580,000.
+
+The owner wants to invite offers between £700,000 and £725,000 for the Surrey property. Update the price band.
+
+Drop the price on 10 High Street, it's been on for too long. Let's make it £329,950.
+
+The developer is offering a stamp duty incentive, please add 'Stamp Duty Paid' to the listing for the new build in Milton Keynes.
+
+The seller wants to be aggressive; change the price for the Liverpool apartment to 'Offers Over £150,000'.
+
+We've had no interest, let's reduce the asking price for the Durham house by £10,000.
+
+Change the pricing strategy for the land in Kent to 'Price on Application'.
+
+The landlord wants to increase the rent on the Islington flat to £2,100 PCM after the refurb.
+
+Adjust the price of the flat in Leicester to £175,000. The seller is motivated.
+
+The auction guide price needs updating for the property in Birmingham, set it to £90,000+.
+
+Please reflect a price change on the Brighton maisonette, the new asking price is £550,000.
+
+The vendor has instructed a price drop on the Exeter property to get it sold before the end of the month.
+
+The photographer just sent the link for the York house, please upload all photos and the floor plan.
+
+Swap the lead photo on the Brighton flat to the new one I just uploaded called 'hero_shot.jpg'.
+
+Please add the Matterport 3D tour link to the virtual tour section for the Bristol property.
+
+The current front shot is terrible, can you replace it with the twilight photo for the listing in Chelsea?
+
+The floor plan for the Manchester apartment is wrong, please delete it and I'll upload a corrected version tomorrow.
+
+Add the new lifestyle photos to the end of the gallery for the farmhouse in Devon.
+
+The vendor has sent a video of the garden in bloom, please add it to the listing for 22 Willow Creek.
+
+Can you reorder the photos for the Sheffield listing? I want the kitchen to be picture number two.
+
+Remove the photo of the second bedroom for the London flat, it's being redecorated.
+
+The brochure is now ready, can you upload the PDF to the listing for the house in Harrogate?
+
+Please add a watermark to all photos for the property on Baker Street.
+
+Update the main image for the listing on Ocean Drive to the one with the sea view.
+
+The virtual staging photos have arrived for the empty flat in Leeds, please integrate them into the main photo set.
+
+The EPC chart needs to be added as the last image for the property in Cambridge.
+
+I've sent you the link to the drone video, please embed it on the listing for the estate in Cheshire.
+
+Can you add to the description for the Wimbledon house that it's in the catchment area for Pelham Primary School?
+
+Please add a bullet point: 'Newly installed Worcester Bosch boiler with 10-year warranty'.
+
+Correct the description for the Sheffield flat; it's electric heating, not gas central heating.
+
+Add a note to the bottom of the description: 'The property has a flying freehold element'.
+
+Update the summary for the flat in Canary Wharf to mention 'hyperoptic broadband installed'.
+
+Please remove the phrase 'quiet street' from the description; there are roadworks planned.
+
+Add 'south-west facing garden' to the key features list for the house in St Albans.
+
+The owner has just renewed the lease, please update the description to reflect '990 years remaining'.
+
+Can you check the grammar in the main description for the Bath property? I think there are some errors.
+
+Add this to the listing for the rental in Manchester: 'The property will be professionally cleaned before tenancy begins'.
+
+The seller wants to be clear, add 'Sold as seen' to the property notes.
+
+Update the key features to include 'underfloor heating in both bathrooms' for the new build in Reading.
+
+The property is Grade II listed; this needs to be prominently mentioned in the first paragraph of the description.
+
+Please correct the school mentioned in the listing; it should be 'St. Mary's Primary' not 'St. John's'.
+
+Add a sentence: 'There is lapsed planning permission for a loft conversion, details available on request.'
+
+The owner of 45 Elm Avenue, London, wants all viewings to be accompanied by me personally. Please add that as a note.
+
+Consolidate all viewings for the Manchester apartment into a block viewing this Saturday, 10am-12pm.
+
+The tenant at the rental property has requested no more viewings this week, please block out the calendar.
+
+The open house for the Bristol property is now fully booked, please add a note 'Open house fully booked, reserve list only'.
+
+Change the viewing arrangements for the house in Leeds to 'Vacant possession, viewings available anytime'.
+
+The owner works nights, so please update the viewing instructions to 'No viewings before 12pm'.
+
+Let's set up a second open house for the house in Guildford for this Sunday, same times.
+
+Please remove all future viewing slots for the property at 10 Downing Street; the offer has been accepted.
+
+The key for the flat in Liverpool is now with us, so we can change viewing access to 'Key in office'.
+
+Add 'Strictly by appointment only' to the top of the listing for the house in Windsor.
+
+Update the listing for the Chelsea flat: the building is managed by 'Kinleigh Folkard & Hayward'.
+
+Add 'Residents' parking permit required from the council' to the parking details for the Camden property.
+
+The ground rent for the Reading flat escalates; please add the details from the lease I emailed.
+
+The council tax band is incorrect; it's Band E, not F. Please update for the listing in Edinburgh.
+
+The seller has provided the utility costs, please add a note in the agent section: 'Average gas & electric £150pcm'.
+
+Update the number of bedrooms from 3 to '2 bedrooms plus study' for the property in Oxford.
+
+The leasehold information is incomplete. Add service charge of 'approx. £2,400 per annum'.
+
+The property has a septic tank, not mains drainage. This needs to be corrected on the listing.
+
+Change the property type to 'Maisonette' as it has its own private entrance.
+
+The measurements on the floorplan are in meters; please specify this in the description.
+
+Add 'Fibre optic broadband available' to the key features of the property in Salford.
+
+The property falls under a conservation area, please add this detail to the listing.
+
+Update the tenure information: 'Share of Freehold with an underlying lease of 987 years'.
+
+The parking is allocated, not just 'off-street'. Please make that correction.
+
+The seller has just had a new EPC done; the rating is now B. Please update.
+
+The landlord of the Oxford flat will now include council tax and water for an increased rent of £1400pcm, update please.
+
+Add a note to the rental listing in Clapham: 'A six-month break clause is available'.
+
+Update the furnishing for the rental in Leeds to specify 'sofa and white goods included only'.
+
+The landlord wants 'No students' added to the restrictions for the Bristol rental.
+
+Please change the security deposit for the flat in Birmingham to 'Zero Deposit Option Available'.
+
+The available date has been pushed back to August 15th for the rental in Manchester.
+
+Change the rental term to 'Long term let only (12 months minimum)' for the house in Cambridge.
+
+The landlord has now agreed to pets, so please remove the 'No Pets' clause from the listing.
+
+Add to the rental in Shoreditch: 'The property has access to a communal gym and roof terrace'.
+
+Update the rent for the room in the shared house to '£750 PCM including bills'.
+
+The current tenants are leaving early, so the flat is 'Available Now'. Please update the listing.
+
+Please specify that the garden for the rental maisonette is 'private', not shared.
+
+The landlord wants to offer a '1 week rent-free' incentive for a quick move-in. Please add this to the description.
+
+Change the letting type to 'Student Let' for the property near the University of Nottingham.
+
+The landlord is supplying a new washing machine; please add this to the list of included appliances.

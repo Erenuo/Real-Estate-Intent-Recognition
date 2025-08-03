@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intent Recognition Client</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .loader {
+            border-top-color: #3498db;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+
+    <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-2xl mx-4">
+        <div class="text-center mb-6">
+            <h1 class="text-3xl font-bold text-gray-800">Intent Recognition API Client</h1>
+            <p class="text-gray-500 mt-2">Enter a sentence to get predictions from the top 3 models.</p>
+        </div>
+
+        <div>
+            <label for="sentence" class="block text-sm font-medium text-gray-700 mb-2">Your Sentence:</label>
+            <textarea id="sentence" rows="4" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition" placeholder="e.g., 'Show me 3-bedroom houses in Manchester with a garden'"></textarea>
+        </div>
+
+        <div class="mt-6">
+            <button id="predictBtn" class="w-full bg-indigo-600 text-white font-bold py-3 px-4 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-transform transform hover:scale-105">
+                Recognize Intent
+            </button>
+        </div>
+
+        <!-- Loading Spinner -->
+        <div id="loader" class="hidden mt-6 flex justify-center items-center">
+            <div class="loader ease-linear rounded-full border-4 border-t-4 border-gray-200 h-12 w-12"></div>
+        </div>
+        
+        <!-- Error Message -->
+        <div id="error" class="hidden mt-6 p-4 bg-red-100 text-red-700 rounded-lg"></div>
+
+
+        <!-- Results Section -->
+        <div id="results" class="hidden mt-8 border-t pt-6">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Predictions</h2>
+            <div class="space-y-4">
+                <div class="p-4 bg-gray-50 rounded-lg border border-gray-200">
+                    <h3 class="font-bold text-lg text-indigo-700">🥇 SVM Model</h3>
+                    <p id="svmResult" class="text-gray-800 text-lg mt-1"></p>
+                </div>
+                <div class="p-4 bg-gray-50 rounded-lg border border-gray-200">
+                    <h3 class="font-bold text-lg text-teal-700">🥈 XGBoost Model</h3>
+                    <p id="xgbResult" class="text-gray-800 text-lg mt-1"></p>
+                </div>
+                <div class="p-4 bg-gray-50 rounded-lg border border-gray-200">
+                    <h3 class="font-bold text-lg text-sky-700">🥉 Logistic Regression Model</h3>
+                    <p id="logregResult" class="text-gray-800 text-lg mt-1"></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        const predictBtn = document.getElementById('predictBtn');
+        const sentenceInput = document.getElementById('sentence');
+        const resultsDiv = document.getElementById('results');
+        const svmResultEl = document.getElementById('svmResult');
+        const xgbResultEl = document.getElementById('xgbResult');
+        const logregResultEl = document.getElementById('logregResult');
+        const loader = document.getElementById('loader');
+        const errorDiv = document.getElementById('error');
+
+        predictBtn.addEventListener('click', async () => {
+            const text = sentenceInput.value.trim();
+            if (!text) {
+                alert('Please enter a sentence.');
+                return;
+            }
+
+            // Reset UI
+            resultsDiv.classList.add('hidden');
+            errorDiv.classList.add('hidden');
+            loader.classList.remove('hidden');
+            predictBtn.disabled = true;
+
+            try {
+                const response = await fetch('http://127.0.0.1:8000/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ text: text })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`API Error: ${response.status} ${response.statusText}`);
+                }
+
+                const data = await response.json();
+                
+                // Display results
+                svmResultEl.textContent = data.predictions.svm_prediction;
+                xgbResultEl.textContent = data.predictions.xgboost_prediction;
+                logregResultEl.textContent = data.predictions.logistic_regression_prediction;
+                resultsDiv.classList.remove('hidden');
+
+            } catch (error) {
+                console.error('Fetch error:', error);
+                errorDiv.textContent = `Failed to connect to the API. Make sure the FastAPI server is running. Error: ${error.message}`;
+                errorDiv.classList.remove('hidden');
+            } finally {
+                // Re-enable UI
+                loader.classList.add('hidden');
+                predictBtn.disabled = false;
+            }
+        });
+    </script>
+
+</body>
+</html>

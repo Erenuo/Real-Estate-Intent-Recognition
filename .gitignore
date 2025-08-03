@@ -1,0 +1,8 @@
+real_estate_intent_dataset.csv
+
+venv/
+
+__pycache__/
+
+evaluation_results/
+

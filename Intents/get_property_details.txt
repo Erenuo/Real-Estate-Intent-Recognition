@@ -1,0 +1,399 @@
+What's the current asking price for the flat in Shoreditch?
+
+Can you confirm the annual ground rent for the property at 10 Downing Street?
+
+Show me the council tax band for the bungalow in Cornwall.
+
+I need the estimated monthly utility costs for the terraced house in Bristol.
+
+Has the price changed for the property on Baker Street?
+
+Pull up the service charge breakdown for the penthouse in Liverpool.
+
+What's the latest valuation on the property with reference #45B21?
+
+Find the original purchase price paid by the current vendor for the house in Leeds.
+
+Tell me the predicted rental yield for the apartment in Birmingham.
+
+Are there any outstanding service charge arrears on the flat in Islington?
+
+Show me the complete price history for the semi-detached in Sheffield.
+
+What is the ground rent review period for the maisonette in Cardiff?
+
+Get me the insurance reinstatement value for the property in Edinburgh.
+
+What offers have been made on the home in Chelsea?
+
+Display the stamp duty calculation for the list price of the property on King's Road.
+
+Is the property on Abbey Road a freehold or leasehold?
+
+How many years are left on the lease for the apartment in Mayfair?
+
+I need the EPC rating for the house we viewed in Cambridge.
+
+Can you find the title number for the property at 221B Baker Street?
+
+Show me the vendor's conveyancer details for the sale in Bath.
+
+Are there any known restrictive covenants on the land for the farmhouse in the Cotswolds?
+
+Pull up the property information form (TA6) for the listing in York.
+
+Is the property part of a chain?
+
+Find the managing agent's details for the block in Manchester City Centre.
+
+Display the full EPC report for the flat in Brighton.
+
+What's the tenure of the garage for the house in Southampton?
+
+Who are the solicitors handling the sale for the property on Elm Street?
+
+Get me the local authority search results for the Reading property.
+
+Is the property listed or in a conservation area?
+
+Show me the fixtures and fittings list (TA10) for the house in Exeter.
+
+How many bedrooms does the property in Richmond have?
+
+What is the total square footage of the flat in Salford Quays?
+
+Show me the floor plan for the house on Ocean View Drive.
+
+Does the apartment in Kensington come with allocated parking?
+
+Tell me the size of the garden for the cottage in Devon.
+
+Is there a utility room in the property with reference #P8876?
+
+Pull up the key features for the home in Newcastle.
+
+What type of heating system does the house in Nottingham have?
+
+Are the windows double-glazed on the property in Leicester?
+
+Can you confirm the number of bathrooms in the townhouse on George Street?
+
+Show me the room dimensions for the master bedroom in the Bristol flat.
+
+Is there loft access at the bungalow in Bournemouth?
+
+Does the property have a south-facing garden?
+
+Get me details on the outbuildings for the farm in rural Wales.
+
+What's the average broadband speed for the flat in Central London?
+
+Can I see all the photos for the property on Regent Street?
+
+Play the video tour for the flat in Canary Wharf.
+
+Show me the 3D virtual tour for the house in Windsor.
+
+Pull up the professional photographs for the listing in Stratford-upon-Avon.
+
+I need to see the aerial drone footage of the estate in Cheshire.
+
+Display the gallery for the new build in Milton Keynes.
+
+Are there any architect's drawings for the extension on the Surrey house?
+
+Show me the marketing brochure for the penthouse on the South Bank.
+
+Can you find the before-and-after renovation photos for the property in Hackney?
+
+Get me the link to the online virtual viewing for the property in Clapham.
+
+How long has the house in Wimbledon been listed?
+
+Show me the full viewing history for the property at 12 Grimmauld Place.
+
+Have there been any official offers on the flat in Putney?
+
+What was the previous sale price for the house in Oxford?
+
+Show me a log of all price reductions for the property in Chester.
+
+What is the current status of the sale for the home in St Albans?
+
+Find out why the previous sale fell through for the property in Islington.
+
+How much online interest has the cottage in the Peak District had?
+
+Display the listing timeline for the house on Church Road.
+
+When was the property last sold?
+
+Pull up the offer history for the apartment with ID 789-CDE.
+
+Has this property been on the market recently with another agent?
+
+Show me the total number of days on market for the property in Harrogate.
+
+What's the vendor's reason for selling the house in Dulwich?
+
+Has the asking price been adjusted for the home in Guildford?
+
+Show me the viewing schedule for the house on Holly Lane this week.
+
+What was the feedback from the 2pm viewing at the Knightsbridge flat?
+
+I need to see all upcoming appointments for the property with reference ABC123.
+
+Pull up a list of everyone who has viewed the property in SoHo.
+
+Can you get me the notes from last Saturday's open house in Balham?
+
+Who is the agent covering the next viewing at the Winchester property?
+
+Display all feedback received for the cottage in the Lake District.
+
+How many second viewings are booked for the flat in Angel?
+
+Show me the viewing calendar for the property on Victoria Street.
+
+What was John Smith's feedback on the Birmingham property?
+
+Get me a summary of all viewing feedback for the home in Reading.
+
+Are there any viewings scheduled for tomorrow for the property on Park Lane?
+
+I need the contact details for the people who viewed the Battersea flat yesterday.
+
+Collate all the negative viewing comments for the property in Maida Vale.
+
+Show me the key log for the property at 34 Elderflower Lane.
+
+What are the nearest tube stations to the flat in South Kensington?
+
+Show me the local school catchment area for the house in Richmond.
+
+I need a list of nearby supermarkets for the property in Headingley, Leeds.
+
+What's the Ofsted rating for the closest primary school to the house in Bristol?
+
+Pull up a map of local parks and green spaces for the flat in Greenwich.
+
+Is the property in a flood risk zone?
+
+Tell me about the public transport links near the apartment in Croydon.
+
+Get me information on local council planning applications near the house in Esher.
+
+What are the nearest pubs and restaurants to the property in Notting Hill?
+
+Show me the crime rate statistics for the postcode of the Shoreditch flat.
+
+Give me the full rundown on the property in Chiswick.
+
+I need the key-safe code for the flat on King's Road.
+
+Who is the vendor for the property with reference #GHI456?
+
+Show me everything you have on the listing in Canary Wharf.
+
+Is there an alarm system at the property in Hampstead, and what's the code?
+
+What's the asking price per square foot for the loft in Manchester?
+
+Can you pull up the service charge accounts for the last 3 years for the flat in Battersea?
+
+Tell me the projected capital growth for the property in East London.
+
+Is the price negotiable on the house in Canterbury?
+
+Show me a comparison of the asking price against similar sold properties in the area.
+
+What are the payment terms for the ground rent on the Pimlico flat?
+
+Find the estimated renovation cost for the fixer-upper in Glasgow.
+
+Display any known upcoming assessments or major works costs for the block in Brighton.
+
+What's the council tax for a single occupant at the property in York?
+
+I need the business rates if the property in Birmingham is used commercially.
+
+Pull up the offer that was accepted for the house in Surrey.
+
+Is the property eligible for any first-time buyer schemes?
+
+What was the guide price at auction for the plot of land in Kent?
+
+Show me the financial summary for the listing on The Strand.
+
+Are there any sinking fund details for the apartment building in Liverpool?
+
+Does the lease for the flat in Chelsea allow for pets?
+
+I need a copy of the Land Registry title plan for the house in Windsor.
+
+Are there any tree preservation orders on the property in the New Forest?
+
+Can you confirm if the property has a right of way through the neighbour's garden?
+
+Show me the planning permission documents for the loft conversion in Bristol.
+
+Is the vendor's solicitor on the lender panel for HSBC?
+
+Pull up the management pack for the leasehold flat in Leeds.
+
+Are there any subletting restrictions on the apartment in Canary Wharf?
+
+What are the details of the share of freehold for the property in Hampstead?
+
+Find the memorandum of sale for the house on Portobello Road.
+
+Does the property have building regulations approval for the extension?
+
+Show me the water and drainage search results for the property in Bath.
+
+Is the property currently tenanted, and if so, what are the tenancy details?
+
+I need the contact information for the freeholder of the flat in Notting Hill.
+
+Has an environmental search been completed for the home in Manchester?
+
+What is the make and model of the boiler in the house in Sheffield?
+
+Is there fibre optic broadband installed at the property in Reading?
+
+Show me the condition report from the survey on the house in Exeter.
+
+Does the property have an electric vehicle charging point?
+
+What are the materials of the kitchen countertops in the flat in Soho?
+
+Is the loft boarded for storage?
+
+Can you tell me the age of the roof on the cottage in the Cotswolds?
+
+Are the kitchen appliances integrated and included in the sale?
+
+Pull up the details about the swimming pool for the house in Surrey.
+
+What is the water pressure like in the top-floor apartment?
+
+Show me the window and door specifications from the brochure.
+
+Is there a wood-burning stove, and is it certified?
+
+Get me the dimensions of the garage for the house in Milton Keynes.
+
+Does the building have a concierge service?
+
+What kind of flooring is in the living room of the flat in Islington?
+
+Can you send me the link to the Rightmove listing for the house in Wimbledon?
+
+I need to see the high-resolution floor plan for the penthouse in Liverpool.
+
+Where is the property featured online? Show me all property portals.
+
+Pull up the marketing text used for the property description.
+
+Are there any twilight or evening photos of the property?
+
+Show me the interactive site map for the new development in Cambridge.
+
+I need the raw image files from the photographer for the listing in Bath.
+
+Display the property's social media post and its engagement stats.
+
+Is there a digital brochure I can send to my client for the house in Harrogate?
+
+Can I see the Matterport scan for the flat in Manchester?
+
+Who was the previous agent marketing this property?
+
+Show me a list of all withdrawn offers for the flat in Putney.
+
+Has the property ever been subject to repossession?
+
+How many times has this listing fallen through, and why?
+
+Get me the sales history going back 20 years for the address in Kensington.
+
+What was the feedback from the surveyor on the previous failed sale?
+
+Show me the date the property was first listed for sale.
+
+Is the current owner the original owner of this new build?
+
+Pull up any notes on the vendor's motivation for moving.
+
+Has there been any interest from cash buyers for the property in Oxford?
+
+What's the highest offer received to date for the house on Elm Street?
+
+Show me the status of the property chain above our buyer.
+
+When did the current owners purchase the property?
+
+Are there any other properties on this street currently for sale?
+
+Has the property been down-valued by a surveyor in the past?
+
+What are the vendor's preferred viewing times for the property in St Albans?
+
+I need the alarm code and disarming instructions for the house in Winchester.
+
+Show me a list of all viewers who subsequently made an offer.
+
+Is the property vacant or owner-occupied at present?
+
+Can we get access for a surveyor next Tuesday afternoon?
+
+Pull up the contact number for the current tenant to arrange a viewing.
+
+Who from our office currently holds the keys for the flat in Richmond?
+
+What was the name of the couple who viewed the property twice last week?
+
+I need to block out viewing times for this Friday morning for a deep clean.
+
+Display all viewing requests that are currently awaiting confirmation.
+
+Get me the feedback from the "hot" buyers who viewed the property in Balham.
+
+What are the access arrangements for the communal areas of the building?
+
+Can you confirm the location of the key safe for the cottage in the Lake District?
+
+Show me the viewing-to-offer ratio for this listing.
+
+Was there any specific feedback on road noise from people who viewed the property?
+
+What is the walking distance to the nearest train station from the house in Guildford?
+
+Show me the proximity of the property to the M25 motorway.
+
+Are there any planned major construction projects in the immediate area?
+
+I need to know about the mobile phone signal strength inside the property.
+
+What are the parking restrictions on the street outside the flat in Clifton, Bristol?
+
+Find out about the local residents' association for the estate in Dulwich.
+
+Is the property located on a flight path?
+
+Tell me about the local gym and leisure facilities near the apartment in Salford.
+
+Get me the details of the nearest NHS doctor's surgery and if they are accepting patients.
+
+Is the property in an Ultra Low Emission Zone (ULEZ)?
+
+Show me a map of the property in relation to local dog walking spots.
+
+What's the council's long-term plan for the park opposite the house?
+
+Find the property on the Environment Agency's flood map.
+
+Tell me about the nightlife and noise levels in the area around the Shoreditch flat.
+
+What's the nearest large supermarket to the house in rural Yorkshire?
