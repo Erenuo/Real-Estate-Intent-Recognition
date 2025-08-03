@@ -1,13 +1,12 @@
+from fastapi.middleware.cors import CORSMiddleware
+from transformers import BertTokenizer, BertModel
+from pydantic import BaseModel
+from fastapi import FastAPI
+import warnings
+import uvicorn
 import joblib
 import torch
-import numpy as np
-from transformers import BertTokenizer, BertModel
 import os
-import warnings
-from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware # Import CORS Middleware
-from pydantic import BaseModel
-import uvicorn
 
 # --- Configuration ---
 # Suppress warnings for a cleaner output
@@ -114,8 +113,6 @@ def predict_intent(request: IntentRequest):
         }
     }
 
-# --- Run the API ---
+
 if __name__ == '__main__':
-    # To run this API, save the file as `predict_intent.py` and run the following command in your terminal:
-    # uvicorn predict_intent:app --reload
     uvicorn.run(app, host="0.0.0.0", port=8000)
