@@ -26,8 +26,6 @@ A machine learning project to classify user text queries (e.g., "looking to buy 
 
 ## Usage
 
-  - **Train a new model**: Run the primary script in the `model_trains/` directory.
-  - **Evaluate models**: Use `evaluate_models.py`.
   - **Predict from command line**:
     ```sh
     python predict_intent.py "your text query here"
