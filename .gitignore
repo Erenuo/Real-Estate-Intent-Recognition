@@ -6,3 +6,6 @@ __pycache__/
 
 evaluation_results/
 
+Intents/
+
+model_trains/
