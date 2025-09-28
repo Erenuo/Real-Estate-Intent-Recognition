@@ -28,7 +28,7 @@ A machine learning project to classify user text queries (e.g., "looking to buy 
 
   - **Predict from command line**:
     ```sh
-    python predict_intent.py "your text query here"
+    python predict_intent.py "I want to buy a house"
     ```
 
 -----
