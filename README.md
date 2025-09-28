@@ -30,6 +30,8 @@ A machine learning project to classify user text queries (e.g., "looking to buy 
     ```sh
     python predict_intent.py "Show me houses with 3 bedrooms"
     ```
+  - **Predict in Render.com**:
+    https://real-estate-intent-recognition.onrender.com/
 
 -----
 
